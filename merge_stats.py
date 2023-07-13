@@ -97,11 +97,9 @@ subjects = sorted(
 
     
 for subject in tqdm(subjects):
-
     test_df = pd.read_csv(
         os.path.join("data", "mmlu", "test", subject + "_test.csv"), header=None
     )
-
     test_df.columns = ["Questions", "Choice 1", "Choice 2", "Choice 3", "Choice 4", "Correct Answer"]
 
     for model in models:
@@ -111,7 +109,11 @@ for subject in tqdm(subjects):
             os.path.join(model, subject + tail), header=None
         )
 
-        test_df[model + " Answer"] = model_df.iloc[model_df.shape[1] - 1]
+        preds = []
+        for i in range(model_df.shape[0]):
+            preds.append(model_df.iloc[i, model_df.shape[1] - 1])
+
+    test_df[model + " Answer"] = preds
 
     test_df.to_csv(
         os.path.join("combined", subject + ".csv"), index=False, header=True
