@@ -113,7 +113,7 @@ for subject in tqdm(subjects):
         for i in range(model_df.shape[0]):
             preds.append(model_df.iloc[i, model_df.shape[1] - 1])
 
-    test_df[model + " Answer"] = preds
+        test_df[model + " Answer"] = preds
 
     test_df.to_csv(
         os.path.join("combined", subject + ".csv"), index=False, header=True
