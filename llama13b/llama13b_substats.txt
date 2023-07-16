@@ -1,0 +1,24 @@
+Average accuracy 0.294 - math
+Average accuracy 0.491 - health
+Average accuracy 0.359 - physics
+Average accuracy 0.654 - business
+Average accuracy 0.511 - biology
+Average accuracy 0.300 - chemistry
+Average accuracy 0.454 - computer science
+Average accuracy 0.442 - economics
+Average accuracy 0.434 - engineering
+Average accuracy 0.419 - philosophy
+Average accuracy 0.555 - other
+Average accuracy 0.600 - history
+Average accuracy 0.530 - geography
+Average accuracy 0.622 - politics
+Average accuracy 0.547 - psychology
+Average accuracy 0.593 - culture
+Average accuracy 0.393 - law
+Average accuracy 0.370 - STEM
+Average accuracy 0.445 - humanities
+Average accuracy 0.541 - social sciences
+Average accuracy 0.536 - other (business, health, misc.)
+Average accuracy: 0.471
+{'mmlu': 47.1}
+mmlu: 47.1
