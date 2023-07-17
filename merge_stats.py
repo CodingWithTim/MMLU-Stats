@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from tqdm import tqdm
 
-models = ["vicuna7b", "vicuna13b"]
+models = ["vicuna7b", "vicuna13b", "vicuna33b", "llama7b", "llama13b"]
 
 def get_subcategories():
     return {
