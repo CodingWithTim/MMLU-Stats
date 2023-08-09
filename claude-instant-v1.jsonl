@@ -1,5 +1,5 @@
 {"question_id": 10001, "category": "abstract_algebra", "answer": "C"}
-{"question_id": 10002, "category": "abstract_algebra", "answer": "Format Error"}
+{"question_id": 10002, "category": "abstract_algebra", "answer": "F"}
 {"question_id": 10003, "category": "abstract_algebra", "answer": "A"}
 {"question_id": 10004, "category": "abstract_algebra", "answer": "B"}
 {"question_id": 10005, "category": "abstract_algebra", "answer": "B"}
@@ -10,7 +10,7 @@
 {"question_id": 10010, "category": "abstract_algebra", "answer": "C"}
 {"question_id": 10011, "category": "abstract_algebra", "answer": "C"}
 {"question_id": 10012, "category": "abstract_algebra", "answer": "C"}
-{"question_id": 10013, "category": "abstract_algebra", "answer": "Format Error"}
+{"question_id": 10013, "category": "abstract_algebra", "answer": "F"}
 {"question_id": 10014, "category": "abstract_algebra", "answer": "D"}
 {"question_id": 10015, "category": "abstract_algebra", "answer": "C"}
 {"question_id": 10016, "category": "abstract_algebra", "answer": "C"}
@@ -110,7 +110,7 @@
 {"question_id": 10110, "category": "anatomy", "answer": "D"}
 {"question_id": 10111, "category": "anatomy", "answer": "C"}
 {"question_id": 10112, "category": "anatomy", "answer": "D"}
-{"question_id": 10113, "category": "anatomy", "answer": "Format Error"}
+{"question_id": 10113, "category": "anatomy", "answer": "F"}
 {"question_id": 10114, "category": "anatomy", "answer": "B"}
 {"question_id": 10115, "category": "anatomy", "answer": "A"}
 {"question_id": 10116, "category": "anatomy", "answer": "D"}
@@ -194,7 +194,7 @@
 {"question_id": 10194, "category": "anatomy", "answer": "D"}
 {"question_id": 10195, "category": "anatomy", "answer": "B"}
 {"question_id": 10196, "category": "anatomy", "answer": "A"}
-{"question_id": 10197, "category": "anatomy", "answer": "Format Error"}
+{"question_id": 10197, "category": "anatomy", "answer": "F"}
 {"question_id": 10198, "category": "anatomy", "answer": "A"}
 {"question_id": 10199, "category": "anatomy", "answer": "B"}
 {"question_id": 10200, "category": "anatomy", "answer": "B"}
@@ -324,7 +324,7 @@
 {"question_id": 10324, "category": "astronomy", "answer": "C"}
 {"question_id": 10325, "category": "astronomy", "answer": "D"}
 {"question_id": 10326, "category": "astronomy", "answer": "D"}
-{"question_id": 10327, "category": "astronomy", "answer": "Format Error"}
+{"question_id": 10327, "category": "astronomy", "answer": "F"}
 {"question_id": 10328, "category": "astronomy", "answer": "A"}
 {"question_id": 10329, "category": "astronomy", "answer": "C"}
 {"question_id": 10330, "category": "astronomy", "answer": "D"}
@@ -392,11 +392,11 @@
 {"question_id": 10392, "category": "business_ethics", "answer": "B"}
 {"question_id": 10393, "category": "business_ethics", "answer": "D"}
 {"question_id": 10394, "category": "business_ethics", "answer": "B"}
-{"question_id": 10395, "category": "business_ethics", "answer": "Format Error"}
+{"question_id": 10395, "category": "business_ethics", "answer": "F"}
 {"question_id": 10396, "category": "business_ethics", "answer": "A"}
 {"question_id": 10397, "category": "business_ethics", "answer": "B"}
 {"question_id": 10398, "category": "business_ethics", "answer": "C"}
-{"question_id": 10399, "category": "business_ethics", "answer": "Format Error"}
+{"question_id": 10399, "category": "business_ethics", "answer": "F"}
 {"question_id": 10400, "category": "business_ethics", "answer": "B"}
 {"question_id": 10401, "category": "business_ethics", "answer": "B"}
 {"question_id": 10402, "category": "business_ethics", "answer": "D"}
@@ -425,7 +425,7 @@
 {"question_id": 10425, "category": "business_ethics", "answer": "D"}
 {"question_id": 10426, "category": "business_ethics", "answer": "C"}
 {"question_id": 10427, "category": "business_ethics", "answer": "B"}
-{"question_id": 10428, "category": "business_ethics", "answer": "Format Error"}
+{"question_id": 10428, "category": "business_ethics", "answer": "F"}
 {"question_id": 10429, "category": "business_ethics", "answer": "A"}
 {"question_id": 10430, "category": "business_ethics", "answer": "A"}
 {"question_id": 10431, "category": "business_ethics", "answer": "B"}
@@ -435,12 +435,12 @@
 {"question_id": 10435, "category": "business_ethics", "answer": "A"}
 {"question_id": 10436, "category": "business_ethics", "answer": "D"}
 {"question_id": 10437, "category": "business_ethics", "answer": "B"}
-{"question_id": 10438, "category": "business_ethics", "answer": "Format Error"}
+{"question_id": 10438, "category": "business_ethics", "answer": "F"}
 {"question_id": 10439, "category": "business_ethics", "answer": "B"}
 {"question_id": 10440, "category": "business_ethics", "answer": "D"}
 {"question_id": 10441, "category": "business_ethics", "answer": "C"}
 {"question_id": 10442, "category": "business_ethics", "answer": "A"}
-{"question_id": 10443, "category": "business_ethics", "answer": "Format Error"}
+{"question_id": 10443, "category": "business_ethics", "answer": "F"}
 {"question_id": 10444, "category": "business_ethics", "answer": "C"}
 {"question_id": 10445, "category": "business_ethics", "answer": "A"}
 {"question_id": 10446, "category": "business_ethics", "answer": "C"}
@@ -475,9 +475,9 @@
 {"question_id": 10475, "category": "business_ethics", "answer": "A"}
 {"question_id": 10476, "category": "business_ethics", "answer": "B"}
 {"question_id": 10477, "category": "business_ethics", "answer": "B"}
-{"question_id": 10478, "category": "business_ethics", "answer": "Format Error"}
-{"question_id": 10479, "category": "business_ethics", "answer": "Format Error"}
-{"question_id": 10480, "category": "business_ethics", "answer": "Format Error"}
+{"question_id": 10478, "category": "business_ethics", "answer": "F"}
+{"question_id": 10479, "category": "business_ethics", "answer": "F"}
+{"question_id": 10480, "category": "business_ethics", "answer": "F"}
 {"question_id": 10481, "category": "business_ethics", "answer": "D"}
 {"question_id": 10482, "category": "business_ethics", "answer": "B"}
 {"question_id": 10483, "category": "business_ethics", "answer": "C"}
@@ -539,7 +539,7 @@
 {"question_id": 10539, "category": "clinical_knowledge", "answer": "A"}
 {"question_id": 10540, "category": "clinical_knowledge", "answer": "C"}
 {"question_id": 10541, "category": "clinical_knowledge", "answer": "B"}
-{"question_id": 10542, "category": "clinical_knowledge", "answer": "Format Error"}
+{"question_id": 10542, "category": "clinical_knowledge", "answer": "F"}
 {"question_id": 10543, "category": "clinical_knowledge", "answer": "C"}
 {"question_id": 10544, "category": "clinical_knowledge", "answer": "B"}
 {"question_id": 10545, "category": "clinical_knowledge", "answer": "C"}
@@ -608,7 +608,7 @@
 {"question_id": 10608, "category": "clinical_knowledge", "answer": "B"}
 {"question_id": 10609, "category": "clinical_knowledge", "answer": "A"}
 {"question_id": 10610, "category": "clinical_knowledge", "answer": "C"}
-{"question_id": 10611, "category": "clinical_knowledge", "answer": "Format Error"}
+{"question_id": 10611, "category": "clinical_knowledge", "answer": "F"}
 {"question_id": 10612, "category": "clinical_knowledge", "answer": "C"}
 {"question_id": 10613, "category": "clinical_knowledge", "answer": "C"}
 {"question_id": 10614, "category": "clinical_knowledge", "answer": "A"}
@@ -791,7 +791,7 @@
 {"question_id": 10791, "category": "college_biology", "answer": "C"}
 {"question_id": 10792, "category": "college_biology", "answer": "C"}
 {"question_id": 10793, "category": "college_biology", "answer": "C"}
-{"question_id": 10794, "category": "college_biology", "answer": "Format Error"}
+{"question_id": 10794, "category": "college_biology", "answer": "F"}
 {"question_id": 10795, "category": "college_biology", "answer": "C"}
 {"question_id": 10796, "category": "college_biology", "answer": "A"}
 {"question_id": 10797, "category": "college_biology", "answer": "D"}
@@ -839,7 +839,7 @@
 {"question_id": 10839, "category": "college_biology", "answer": "B"}
 {"question_id": 10840, "category": "college_biology", "answer": "B"}
 {"question_id": 10841, "category": "college_biology", "answer": "B"}
-{"question_id": 10842, "category": "college_biology", "answer": "Format Error"}
+{"question_id": 10842, "category": "college_biology", "answer": "F"}
 {"question_id": 10843, "category": "college_biology", "answer": "D"}
 {"question_id": 10844, "category": "college_biology", "answer": "C"}
 {"question_id": 10845, "category": "college_biology", "answer": "B"}
@@ -907,7 +907,7 @@
 {"question_id": 10907, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10908, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10909, "category": "college_chemistry", "answer": "B"}
-{"question_id": 10910, "category": "college_chemistry", "answer": "Format Error"}
+{"question_id": 10910, "category": "college_chemistry", "answer": "F"}
 {"question_id": 10911, "category": "college_chemistry", "answer": "C"}
 {"question_id": 10912, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10913, "category": "college_chemistry", "answer": "D"}
@@ -930,7 +930,7 @@
 {"question_id": 10930, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10931, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10932, "category": "college_chemistry", "answer": "C"}
-{"question_id": 10933, "category": "college_chemistry", "answer": "Format Error"}
+{"question_id": 10933, "category": "college_chemistry", "answer": "F"}
 {"question_id": 10934, "category": "college_chemistry", "answer": "B"}
 {"question_id": 10935, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10936, "category": "college_chemistry", "answer": "D"}
@@ -940,7 +940,7 @@
 {"question_id": 10940, "category": "college_chemistry", "answer": "C"}
 {"question_id": 10941, "category": "college_chemistry", "answer": "C"}
 {"question_id": 10942, "category": "college_chemistry", "answer": "B"}
-{"question_id": 10943, "category": "college_chemistry", "answer": "Format Error"}
+{"question_id": 10943, "category": "college_chemistry", "answer": "F"}
 {"question_id": 10944, "category": "college_chemistry", "answer": "C"}
 {"question_id": 10945, "category": "college_chemistry", "answer": "A"}
 {"question_id": 10946, "category": "college_chemistry", "answer": "C"}
@@ -970,7 +970,7 @@
 {"question_id": 10970, "category": "college_chemistry", "answer": "D"}
 {"question_id": 10971, "category": "college_chemistry", "answer": "B"}
 {"question_id": 10972, "category": "college_chemistry", "answer": "C"}
-{"question_id": 10973, "category": "college_chemistry", "answer": "Format Error"}
+{"question_id": 10973, "category": "college_chemistry", "answer": "F"}
 {"question_id": 10974, "category": "college_chemistry", "answer": "A"}
 {"question_id": 10975, "category": "college_chemistry", "answer": "A"}
 {"question_id": 10976, "category": "college_chemistry", "answer": "B"}
@@ -1017,7 +1017,7 @@
 {"question_id": 11017, "category": "college_computer_science", "answer": "D"}
 {"question_id": 11018, "category": "college_computer_science", "answer": "B"}
 {"question_id": 11019, "category": "college_computer_science", "answer": "A"}
-{"question_id": 11020, "category": "college_computer_science", "answer": "Format Error"}
+{"question_id": 11020, "category": "college_computer_science", "answer": "F"}
 {"question_id": 11021, "category": "college_computer_science", "answer": "D"}
 {"question_id": 11022, "category": "college_computer_science", "answer": "D"}
 {"question_id": 11023, "category": "college_computer_science", "answer": "C"}
@@ -1032,7 +1032,7 @@
 {"question_id": 11032, "category": "college_computer_science", "answer": "D"}
 {"question_id": 11033, "category": "college_computer_science", "answer": "C"}
 {"question_id": 11034, "category": "college_computer_science", "answer": "D"}
-{"question_id": 11035, "category": "college_computer_science", "answer": "Format Error"}
+{"question_id": 11035, "category": "college_computer_science", "answer": "F"}
 {"question_id": 11036, "category": "college_computer_science", "answer": "B"}
 {"question_id": 11037, "category": "college_computer_science", "answer": "A"}
 {"question_id": 11038, "category": "college_computer_science", "answer": "A"}
@@ -1092,7 +1092,7 @@
 {"question_id": 11092, "category": "college_computer_science", "answer": "A"}
 {"question_id": 11093, "category": "college_computer_science", "answer": "A"}
 {"question_id": 11094, "category": "college_computer_science", "answer": "D"}
-{"question_id": 11095, "category": "college_computer_science", "answer": "Format Error"}
+{"question_id": 11095, "category": "college_computer_science", "answer": "F"}
 {"question_id": 11096, "category": "college_computer_science", "answer": "D"}
 {"question_id": 11097, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11098, "category": "college_mathematics", "answer": "2"}
@@ -1100,7 +1100,7 @@
 {"question_id": 11100, "category": "college_mathematics", "answer": "4"}
 {"question_id": 11101, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11102, "category": "college_mathematics", "answer": "D"}
-{"question_id": 11103, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11103, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11104, "category": "college_mathematics", "answer": "A"}
 {"question_id": 11105, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11106, "category": "college_mathematics", "answer": "C"}
@@ -1129,7 +1129,7 @@
 {"question_id": 11129, "category": "college_mathematics", "answer": "B"}
 {"question_id": 11130, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11131, "category": "college_mathematics", "answer": "D"}
-{"question_id": 11132, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11132, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11133, "category": "college_mathematics", "answer": "A"}
 {"question_id": 11134, "category": "college_mathematics", "answer": "2"}
 {"question_id": 11135, "category": "college_mathematics", "answer": "B"}
@@ -1149,17 +1149,17 @@
 {"question_id": 11149, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11150, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11151, "category": "college_mathematics", "answer": "C"}
-{"question_id": 11152, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11152, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11153, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11154, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11155, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11156, "category": "college_mathematics", "answer": "A"}
 {"question_id": 11157, "category": "college_mathematics", "answer": "C"}
-{"question_id": 11158, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11158, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11159, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11160, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11161, "category": "college_mathematics", "answer": "C"}
-{"question_id": 11162, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11162, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11163, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11164, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11165, "category": "college_mathematics", "answer": "A"}
@@ -1172,7 +1172,7 @@
 {"question_id": 11172, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11173, "category": "college_mathematics", "answer": "B"}
 {"question_id": 11174, "category": "college_mathematics", "answer": "C"}
-{"question_id": 11175, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11175, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11176, "category": "college_mathematics", "answer": "C"}
 {"question_id": 11177, "category": "college_mathematics", "answer": "A"}
 {"question_id": 11178, "category": "college_mathematics", "answer": "B"}
@@ -1181,7 +1181,7 @@
 {"question_id": 11181, "category": "college_mathematics", "answer": "B"}
 {"question_id": 11182, "category": "college_mathematics", "answer": "A"}
 {"question_id": 11183, "category": "college_mathematics", "answer": "E"}
-{"question_id": 11184, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11184, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11185, "category": "college_mathematics", "answer": "B"}
 {"question_id": 11186, "category": "college_mathematics", "answer": "A"}
 {"question_id": 11187, "category": "college_mathematics", "answer": "B"}
@@ -1193,7 +1193,7 @@
 {"question_id": 11193, "category": "college_mathematics", "answer": "D"}
 {"question_id": 11194, "category": "college_mathematics", "answer": "B"}
 {"question_id": 11195, "category": "college_mathematics", "answer": "B"}
-{"question_id": 11196, "category": "college_mathematics", "answer": "Format Error"}
+{"question_id": 11196, "category": "college_mathematics", "answer": "F"}
 {"question_id": 11197, "category": "college_medicine", "answer": "B"}
 {"question_id": 11198, "category": "college_medicine", "answer": "D"}
 {"question_id": 11199, "category": "college_medicine", "answer": "D"}
@@ -1239,7 +1239,7 @@
 {"question_id": 11239, "category": "college_medicine", "answer": "D"}
 {"question_id": 11240, "category": "college_medicine", "answer": "C"}
 {"question_id": 11241, "category": "college_medicine", "answer": "C"}
-{"question_id": 11242, "category": "college_medicine", "answer": "Format Error"}
+{"question_id": 11242, "category": "college_medicine", "answer": "F"}
 {"question_id": 11243, "category": "college_medicine", "answer": "C"}
 {"question_id": 11244, "category": "college_medicine", "answer": "A"}
 {"question_id": 11245, "category": "college_medicine", "answer": "B"}
@@ -1349,7 +1349,7 @@
 {"question_id": 11349, "category": "college_medicine", "answer": "A"}
 {"question_id": 11350, "category": "college_medicine", "answer": "C"}
 {"question_id": 11351, "category": "college_medicine", "answer": "D"}
-{"question_id": 11352, "category": "college_medicine", "answer": "Format Error"}
+{"question_id": 11352, "category": "college_medicine", "answer": "F"}
 {"question_id": 11353, "category": "college_medicine", "answer": "B"}
 {"question_id": 11354, "category": "college_medicine", "answer": "A"}
 {"question_id": 11355, "category": "college_medicine", "answer": "D"}
@@ -1359,7 +1359,7 @@
 {"question_id": 11359, "category": "college_medicine", "answer": "B"}
 {"question_id": 11360, "category": "college_medicine", "answer": "D"}
 {"question_id": 11361, "category": "college_medicine", "answer": "D"}
-{"question_id": 11362, "category": "college_medicine", "answer": "Format Error"}
+{"question_id": 11362, "category": "college_medicine", "answer": "F"}
 {"question_id": 11363, "category": "college_medicine", "answer": "B"}
 {"question_id": 11364, "category": "college_medicine", "answer": "D"}
 {"question_id": 11365, "category": "college_medicine", "answer": "C"}
@@ -1401,7 +1401,7 @@
 {"question_id": 11401, "category": "college_physics", "answer": "D"}
 {"question_id": 11402, "category": "college_physics", "answer": "B"}
 {"question_id": 11403, "category": "college_physics", "answer": "D"}
-{"question_id": 11404, "category": "college_physics", "answer": "Format Error"}
+{"question_id": 11404, "category": "college_physics", "answer": "F"}
 {"question_id": 11405, "category": "college_physics", "answer": "B"}
 {"question_id": 11406, "category": "college_physics", "answer": "D"}
 {"question_id": 11407, "category": "college_physics", "answer": "A"}
@@ -1410,7 +1410,7 @@
 {"question_id": 11410, "category": "college_physics", "answer": "D"}
 {"question_id": 11411, "category": "college_physics", "answer": "B"}
 {"question_id": 11412, "category": "college_physics", "answer": "C"}
-{"question_id": 11413, "category": "college_physics", "answer": "Format Error"}
+{"question_id": 11413, "category": "college_physics", "answer": "F"}
 {"question_id": 11414, "category": "college_physics", "answer": "C"}
 {"question_id": 11415, "category": "college_physics", "answer": "C"}
 {"question_id": 11416, "category": "college_physics", "answer": "C"}
@@ -1461,7 +1461,7 @@
 {"question_id": 11461, "category": "college_physics", "answer": "C"}
 {"question_id": 11462, "category": "college_physics", "answer": "D"}
 {"question_id": 11463, "category": "college_physics", "answer": "C"}
-{"question_id": 11464, "category": "college_physics", "answer": "Format Error"}
+{"question_id": 11464, "category": "college_physics", "answer": "F"}
 {"question_id": 11465, "category": "college_physics", "answer": "D"}
 {"question_id": 11466, "category": "college_physics", "answer": "C"}
 {"question_id": 11467, "category": "college_physics", "answer": "D"}
@@ -1475,7 +1475,7 @@
 {"question_id": 11475, "category": "computer_security", "answer": "A"}
 {"question_id": 11476, "category": "computer_security", "answer": "A"}
 {"question_id": 11477, "category": "computer_security", "answer": "B"}
-{"question_id": 11478, "category": "computer_security", "answer": "Format Error"}
+{"question_id": 11478, "category": "computer_security", "answer": "F"}
 {"question_id": 11479, "category": "computer_security", "answer": "A"}
 {"question_id": 11480, "category": "computer_security", "answer": "A"}
 {"question_id": 11481, "category": "computer_security", "answer": "B"}
@@ -1536,7 +1536,7 @@
 {"question_id": 11536, "category": "computer_security", "answer": "D"}
 {"question_id": 11537, "category": "computer_security", "answer": "C"}
 {"question_id": 11538, "category": "computer_security", "answer": "B"}
-{"question_id": 11539, "category": "computer_security", "answer": "Format Error"}
+{"question_id": 11539, "category": "computer_security", "answer": "F"}
 {"question_id": 11540, "category": "computer_security", "answer": "B"}
 {"question_id": 11541, "category": "computer_security", "answer": "A"}
 {"question_id": 11542, "category": "computer_security", "answer": "B"}
@@ -1558,7 +1558,7 @@
 {"question_id": 11558, "category": "computer_security", "answer": "C"}
 {"question_id": 11559, "category": "computer_security", "answer": "A"}
 {"question_id": 11560, "category": "computer_security", "answer": "D"}
-{"question_id": 11561, "category": "computer_security", "answer": "Format Error"}
+{"question_id": 11561, "category": "computer_security", "answer": "F"}
 {"question_id": 11562, "category": "computer_security", "answer": "C"}
 {"question_id": 11563, "category": "computer_security", "answer": "C"}
 {"question_id": 11564, "category": "computer_security", "answer": "B"}
@@ -1580,7 +1580,7 @@
 {"question_id": 11580, "category": "conceptual_physics", "answer": "B"}
 {"question_id": 11581, "category": "conceptual_physics", "answer": "D"}
 {"question_id": 11582, "category": "conceptual_physics", "answer": "B"}
-{"question_id": 11583, "category": "conceptual_physics", "answer": "Format Error"}
+{"question_id": 11583, "category": "conceptual_physics", "answer": "F"}
 {"question_id": 11584, "category": "conceptual_physics", "answer": "B"}
 {"question_id": 11585, "category": "conceptual_physics", "answer": "A"}
 {"question_id": 11586, "category": "conceptual_physics", "answer": "C"}
@@ -1612,7 +1612,7 @@
 {"question_id": 11612, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11613, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11614, "category": "conceptual_physics", "answer": "B"}
-{"question_id": 11615, "category": "conceptual_physics", "answer": "Format Error"}
+{"question_id": 11615, "category": "conceptual_physics", "answer": "F"}
 {"question_id": 11616, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11617, "category": "conceptual_physics", "answer": "A"}
 {"question_id": 11618, "category": "conceptual_physics", "answer": "C"}
@@ -1630,7 +1630,7 @@
 {"question_id": 11630, "category": "conceptual_physics", "answer": "D"}
 {"question_id": 11631, "category": "conceptual_physics", "answer": "B"}
 {"question_id": 11632, "category": "conceptual_physics", "answer": "C"}
-{"question_id": 11633, "category": "conceptual_physics", "answer": "Format Error"}
+{"question_id": 11633, "category": "conceptual_physics", "answer": "F"}
 {"question_id": 11634, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11635, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11636, "category": "conceptual_physics", "answer": "B"}
@@ -1654,7 +1654,7 @@
 {"question_id": 11654, "category": "conceptual_physics", "answer": "A"}
 {"question_id": 11655, "category": "conceptual_physics", "answer": "D"}
 {"question_id": 11656, "category": "conceptual_physics", "answer": "D"}
-{"question_id": 11657, "category": "conceptual_physics", "answer": "Format Error"}
+{"question_id": 11657, "category": "conceptual_physics", "answer": "F"}
 {"question_id": 11658, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11659, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11660, "category": "conceptual_physics", "answer": "A"}
@@ -1726,7 +1726,7 @@
 {"question_id": 11726, "category": "conceptual_physics", "answer": "B"}
 {"question_id": 11727, "category": "conceptual_physics", "answer": "D"}
 {"question_id": 11728, "category": "conceptual_physics", "answer": "A"}
-{"question_id": 11729, "category": "conceptual_physics", "answer": "Format Error"}
+{"question_id": 11729, "category": "conceptual_physics", "answer": "F"}
 {"question_id": 11730, "category": "conceptual_physics", "answer": "A"}
 {"question_id": 11731, "category": "conceptual_physics", "answer": "D"}
 {"question_id": 11732, "category": "conceptual_physics", "answer": "C"}
@@ -1751,7 +1751,7 @@
 {"question_id": 11751, "category": "conceptual_physics", "answer": "D"}
 {"question_id": 11752, "category": "conceptual_physics", "answer": "C"}
 {"question_id": 11753, "category": "conceptual_physics", "answer": "C"}
-{"question_id": 11754, "category": "conceptual_physics", "answer": "Format Error"}
+{"question_id": 11754, "category": "conceptual_physics", "answer": "F"}
 {"question_id": 11755, "category": "conceptual_physics", "answer": "B"}
 {"question_id": 11756, "category": "conceptual_physics", "answer": "B"}
 {"question_id": 11757, "category": "conceptual_physics", "answer": "C"}
@@ -1824,7 +1824,7 @@
 {"question_id": 11824, "category": "econometrics", "answer": "A"}
 {"question_id": 11825, "category": "econometrics", "answer": "D"}
 {"question_id": 11826, "category": "econometrics", "answer": "1"}
-{"question_id": 11827, "category": "econometrics", "answer": "Format Error"}
+{"question_id": 11827, "category": "econometrics", "answer": "F"}
 {"question_id": 11828, "category": "econometrics", "answer": "C"}
 {"question_id": 11829, "category": "econometrics", "answer": "D"}
 {"question_id": 11830, "category": "econometrics", "answer": "B"}
@@ -1861,7 +1861,7 @@
 {"question_id": 11861, "category": "econometrics", "answer": "C"}
 {"question_id": 11862, "category": "econometrics", "answer": "B"}
 {"question_id": 11863, "category": "econometrics", "answer": "D"}
-{"question_id": 11864, "category": "econometrics", "answer": "Format Error"}
+{"question_id": 11864, "category": "econometrics", "answer": "F"}
 {"question_id": 11865, "category": "econometrics", "answer": "B"}
 {"question_id": 11866, "category": "econometrics", "answer": "B"}
 {"question_id": 11867, "category": "econometrics", "answer": "C"}
@@ -1884,9 +1884,9 @@
 {"question_id": 11884, "category": "econometrics", "answer": "A"}
 {"question_id": 11885, "category": "econometrics", "answer": "B"}
 {"question_id": 11886, "category": "econometrics", "answer": "B"}
-{"question_id": 11887, "category": "econometrics", "answer": "Format Error"}
+{"question_id": 11887, "category": "econometrics", "answer": "F"}
 {"question_id": 11888, "category": "econometrics", "answer": "D"}
-{"question_id": 11889, "category": "econometrics", "answer": "Format Error"}
+{"question_id": 11889, "category": "econometrics", "answer": "F"}
 {"question_id": 11890, "category": "econometrics", "answer": "C"}
 {"question_id": 11891, "category": "econometrics", "answer": "B"}
 {"question_id": 11892, "category": "econometrics", "answer": "D"}
@@ -2005,7 +2005,7 @@
 {"question_id": 12005, "category": "electrical_engineering", "answer": "B"}
 {"question_id": 12006, "category": "electrical_engineering", "answer": "D"}
 {"question_id": 12007, "category": "electrical_engineering", "answer": "A"}
-{"question_id": 12008, "category": "electrical_engineering", "answer": "Format Error"}
+{"question_id": 12008, "category": "electrical_engineering", "answer": "F"}
 {"question_id": 12009, "category": "electrical_engineering", "answer": "C"}
 {"question_id": 12010, "category": "electrical_engineering", "answer": "C"}
 {"question_id": 12011, "category": "electrical_engineering", "answer": "D"}
@@ -2034,7 +2034,7 @@
 {"question_id": 12034, "category": "electrical_engineering", "answer": "C"}
 {"question_id": 12035, "category": "electrical_engineering", "answer": "C"}
 {"question_id": 12036, "category": "electrical_engineering", "answer": "C"}
-{"question_id": 12037, "category": "electrical_engineering", "answer": "Format Error"}
+{"question_id": 12037, "category": "electrical_engineering", "answer": "F"}
 {"question_id": 12038, "category": "electrical_engineering", "answer": "B"}
 {"question_id": 12039, "category": "electrical_engineering", "answer": "C"}
 {"question_id": 12040, "category": "electrical_engineering", "answer": "A"}
@@ -2078,9 +2078,9 @@
 {"question_id": 12078, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12079, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12080, "category": "elementary_mathematics", "answer": "C"}
-{"question_id": 12081, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12081, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12082, "category": "elementary_mathematics", "answer": "C"}
-{"question_id": 12083, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12083, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12084, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12085, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12086, "category": "elementary_mathematics", "answer": "C"}
@@ -2151,7 +2151,7 @@
 {"question_id": 12151, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12152, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12153, "category": "elementary_mathematics", "answer": "C"}
-{"question_id": 12154, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12154, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12155, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12156, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12157, "category": "elementary_mathematics", "answer": "B"}
@@ -2162,10 +2162,10 @@
 {"question_id": 12162, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12163, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12164, "category": "elementary_mathematics", "answer": "A"}
-{"question_id": 12165, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12165, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12166, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12167, "category": "elementary_mathematics", "answer": "A"}
-{"question_id": 12168, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12168, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12169, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12170, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12171, "category": "elementary_mathematics", "answer": "C"}
@@ -2218,7 +2218,7 @@
 {"question_id": 12218, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12219, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12220, "category": "elementary_mathematics", "answer": "D"}
-{"question_id": 12221, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12221, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12222, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12223, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12224, "category": "elementary_mathematics", "answer": "B"}
@@ -2243,7 +2243,7 @@
 {"question_id": 12243, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12244, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12245, "category": "elementary_mathematics", "answer": "D"}
-{"question_id": 12246, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12246, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12247, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12248, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12249, "category": "elementary_mathematics", "answer": "6"}
@@ -2269,7 +2269,7 @@
 {"question_id": 12269, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12270, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12271, "category": "elementary_mathematics", "answer": "D"}
-{"question_id": 12272, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12272, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12273, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12274, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12275, "category": "elementary_mathematics", "answer": "C"}
@@ -2352,11 +2352,11 @@
 {"question_id": 12352, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12353, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12354, "category": "elementary_mathematics", "answer": "D"}
-{"question_id": 12355, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12355, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12356, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12357, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12358, "category": "elementary_mathematics", "answer": "A"}
-{"question_id": 12359, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12359, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12360, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12361, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12362, "category": "elementary_mathematics", "answer": "C"}
@@ -2364,7 +2364,7 @@
 {"question_id": 12364, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12365, "category": "elementary_mathematics", "answer": "A"}
 {"question_id": 12366, "category": "elementary_mathematics", "answer": "A"}
-{"question_id": 12367, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12367, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12368, "category": "elementary_mathematics", "answer": "C"}
 {"question_id": 12369, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12370, "category": "elementary_mathematics", "answer": "A"}
@@ -2383,7 +2383,7 @@
 {"question_id": 12383, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12384, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12385, "category": "elementary_mathematics", "answer": "B"}
-{"question_id": 12386, "category": "elementary_mathematics", "answer": "Format Error"}
+{"question_id": 12386, "category": "elementary_mathematics", "answer": "F"}
 {"question_id": 12387, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12388, "category": "elementary_mathematics", "answer": "D"}
 {"question_id": 12389, "category": "elementary_mathematics", "answer": "B"}
@@ -2442,27 +2442,27 @@
 {"question_id": 12442, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12443, "category": "elementary_mathematics", "answer": "B"}
 {"question_id": 12444, "category": "formal_logic", "answer": "C"}
-{"question_id": 12445, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12445, "category": "formal_logic", "answer": "F"}
 {"question_id": 12446, "category": "formal_logic", "answer": "C"}
 {"question_id": 12447, "category": "formal_logic", "answer": "A"}
 {"question_id": 12448, "category": "formal_logic", "answer": "A"}
 {"question_id": 12449, "category": "formal_logic", "answer": "B"}
 {"question_id": 12450, "category": "formal_logic", "answer": "A"}
 {"question_id": 12451, "category": "formal_logic", "answer": "B"}
-{"question_id": 12452, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12452, "category": "formal_logic", "answer": "F"}
 {"question_id": 12453, "category": "formal_logic", "answer": "D"}
 {"question_id": 12454, "category": "formal_logic", "answer": "A"}
 {"question_id": 12455, "category": "formal_logic", "answer": "C"}
-{"question_id": 12456, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12456, "category": "formal_logic", "answer": "F"}
 {"question_id": 12457, "category": "formal_logic", "answer": "C"}
 {"question_id": 12458, "category": "formal_logic", "answer": "B"}
 {"question_id": 12459, "category": "formal_logic", "answer": "B"}
 {"question_id": 12460, "category": "formal_logic", "answer": "B"}
 {"question_id": 12461, "category": "formal_logic", "answer": "C"}
-{"question_id": 12462, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12462, "category": "formal_logic", "answer": "F"}
 {"question_id": 12463, "category": "formal_logic", "answer": "B"}
 {"question_id": 12464, "category": "formal_logic", "answer": "D"}
-{"question_id": 12465, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12465, "category": "formal_logic", "answer": "F"}
 {"question_id": 12466, "category": "formal_logic", "answer": "B"}
 {"question_id": 12467, "category": "formal_logic", "answer": "B"}
 {"question_id": 12468, "category": "formal_logic", "answer": "D"}
@@ -2473,9 +2473,9 @@
 {"question_id": 12473, "category": "formal_logic", "answer": "C"}
 {"question_id": 12474, "category": "formal_logic", "answer": "C"}
 {"question_id": 12475, "category": "formal_logic", "answer": "C"}
-{"question_id": 12476, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12476, "category": "formal_logic", "answer": "F"}
 {"question_id": 12477, "category": "formal_logic", "answer": "B"}
-{"question_id": 12478, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12478, "category": "formal_logic", "answer": "F"}
 {"question_id": 12479, "category": "formal_logic", "answer": "D"}
 {"question_id": 12480, "category": "formal_logic", "answer": "B"}
 {"question_id": 12481, "category": "formal_logic", "answer": "D"}
@@ -2491,12 +2491,12 @@
 {"question_id": 12491, "category": "formal_logic", "answer": "A"}
 {"question_id": 12492, "category": "formal_logic", "answer": "B"}
 {"question_id": 12493, "category": "formal_logic", "answer": "B"}
-{"question_id": 12494, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12494, "category": "formal_logic", "answer": "F"}
 {"question_id": 12495, "category": "formal_logic", "answer": "C"}
-{"question_id": 12496, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12496, "category": "formal_logic", "answer": "F"}
 {"question_id": 12497, "category": "formal_logic", "answer": "B"}
 {"question_id": 12498, "category": "formal_logic", "answer": "D"}
-{"question_id": 12499, "category": "formal_logic", "answer": "Format Error"}
+{"question_id": 12499, "category": "formal_logic", "answer": "F"}
 {"question_id": 12500, "category": "formal_logic", "answer": "C"}
 {"question_id": 12501, "category": "formal_logic", "answer": "B"}
 {"question_id": 12502, "category": "formal_logic", "answer": "B"}
@@ -2568,82 +2568,82 @@
 {"question_id": 12568, "category": "formal_logic", "answer": "C"}
 {"question_id": 12569, "category": "formal_logic", "answer": "C"}
 {"question_id": 12570, "category": "global_facts", "answer": "C"}
-{"question_id": 12571, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12571, "category": "global_facts", "answer": "F"}
 {"question_id": 12572, "category": "global_facts", "answer": "B"}
 {"question_id": 12573, "category": "global_facts", "answer": "A"}
 {"question_id": 12574, "category": "global_facts", "answer": "C"}
 {"question_id": 12575, "category": "global_facts", "answer": "A"}
 {"question_id": 12576, "category": "global_facts", "answer": "B"}
-{"question_id": 12577, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12578, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12577, "category": "global_facts", "answer": "F"}
+{"question_id": 12578, "category": "global_facts", "answer": "F"}
 {"question_id": 12579, "category": "global_facts", "answer": "C"}
-{"question_id": 12580, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12580, "category": "global_facts", "answer": "F"}
 {"question_id": 12581, "category": "global_facts", "answer": "C"}
 {"question_id": 12582, "category": "global_facts", "answer": "A"}
 {"question_id": 12583, "category": "global_facts", "answer": "D"}
-{"question_id": 12584, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12584, "category": "global_facts", "answer": "F"}
 {"question_id": 12585, "category": "global_facts", "answer": "C"}
-{"question_id": 12586, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12587, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12586, "category": "global_facts", "answer": "F"}
+{"question_id": 12587, "category": "global_facts", "answer": "F"}
 {"question_id": 12588, "category": "global_facts", "answer": "C"}
 {"question_id": 12589, "category": "global_facts", "answer": "B"}
-{"question_id": 12590, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12591, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12590, "category": "global_facts", "answer": "F"}
+{"question_id": 12591, "category": "global_facts", "answer": "F"}
 {"question_id": 12592, "category": "global_facts", "answer": "B"}
 {"question_id": 12593, "category": "global_facts", "answer": "B"}
 {"question_id": 12594, "category": "global_facts", "answer": "C"}
-{"question_id": 12595, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12595, "category": "global_facts", "answer": "F"}
 {"question_id": 12596, "category": "global_facts", "answer": "D"}
 {"question_id": 12597, "category": "global_facts", "answer": "C"}
 {"question_id": 12598, "category": "global_facts", "answer": "B"}
-{"question_id": 12599, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12599, "category": "global_facts", "answer": "F"}
 {"question_id": 12600, "category": "global_facts", "answer": "B"}
-{"question_id": 12601, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12601, "category": "global_facts", "answer": "F"}
 {"question_id": 12602, "category": "global_facts", "answer": "B"}
 {"question_id": 12603, "category": "global_facts", "answer": "C"}
 {"question_id": 12604, "category": "global_facts", "answer": "C"}
-{"question_id": 12605, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12605, "category": "global_facts", "answer": "F"}
 {"question_id": 12606, "category": "global_facts", "answer": "A"}
-{"question_id": 12607, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12607, "category": "global_facts", "answer": "F"}
 {"question_id": 12608, "category": "global_facts", "answer": "D"}
-{"question_id": 12609, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12609, "category": "global_facts", "answer": "F"}
 {"question_id": 12610, "category": "global_facts", "answer": "D"}
-{"question_id": 12611, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12611, "category": "global_facts", "answer": "F"}
 {"question_id": 12612, "category": "global_facts", "answer": "C"}
 {"question_id": 12613, "category": "global_facts", "answer": "C"}
 {"question_id": 12614, "category": "global_facts", "answer": "A"}
 {"question_id": 12615, "category": "global_facts", "answer": "C"}
 {"question_id": 12616, "category": "global_facts", "answer": "B"}
-{"question_id": 12617, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12617, "category": "global_facts", "answer": "F"}
 {"question_id": 12618, "category": "global_facts", "answer": "B"}
-{"question_id": 12619, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12619, "category": "global_facts", "answer": "F"}
 {"question_id": 12620, "category": "global_facts", "answer": "B"}
 {"question_id": 12621, "category": "global_facts", "answer": "B"}
-{"question_id": 12622, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12623, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12624, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12622, "category": "global_facts", "answer": "F"}
+{"question_id": 12623, "category": "global_facts", "answer": "F"}
+{"question_id": 12624, "category": "global_facts", "answer": "F"}
 {"question_id": 12625, "category": "global_facts", "answer": "B"}
-{"question_id": 12626, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12627, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12626, "category": "global_facts", "answer": "F"}
+{"question_id": 12627, "category": "global_facts", "answer": "F"}
 {"question_id": 12628, "category": "global_facts", "answer": "D"}
 {"question_id": 12629, "category": "global_facts", "answer": "B"}
-{"question_id": 12630, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12630, "category": "global_facts", "answer": "F"}
 {"question_id": 12631, "category": "global_facts", "answer": "A"}
 {"question_id": 12632, "category": "global_facts", "answer": "B"}
 {"question_id": 12633, "category": "global_facts", "answer": "C"}
 {"question_id": 12634, "category": "global_facts", "answer": "C"}
 {"question_id": 12635, "category": "global_facts", "answer": "C"}
-{"question_id": 12636, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12636, "category": "global_facts", "answer": "F"}
 {"question_id": 12637, "category": "global_facts", "answer": "B"}
-{"question_id": 12638, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12639, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12638, "category": "global_facts", "answer": "F"}
+{"question_id": 12639, "category": "global_facts", "answer": "F"}
 {"question_id": 12640, "category": "global_facts", "answer": "B"}
 {"question_id": 12641, "category": "global_facts", "answer": "D"}
 {"question_id": 12642, "category": "global_facts", "answer": "B"}
 {"question_id": 12643, "category": "global_facts", "answer": "B"}
-{"question_id": 12644, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12645, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12646, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12644, "category": "global_facts", "answer": "F"}
+{"question_id": 12645, "category": "global_facts", "answer": "F"}
+{"question_id": 12646, "category": "global_facts", "answer": "F"}
 {"question_id": 12647, "category": "global_facts", "answer": "A"}
 {"question_id": 12648, "category": "global_facts", "answer": "B"}
 {"question_id": 12649, "category": "global_facts", "answer": "B"}
@@ -2653,14 +2653,14 @@
 {"question_id": 12653, "category": "global_facts", "answer": "B"}
 {"question_id": 12654, "category": "global_facts", "answer": "A"}
 {"question_id": 12655, "category": "global_facts", "answer": "C"}
-{"question_id": 12656, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12656, "category": "global_facts", "answer": "F"}
 {"question_id": 12657, "category": "global_facts", "answer": "A"}
 {"question_id": 12658, "category": "global_facts", "answer": "A"}
-{"question_id": 12659, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12660, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12659, "category": "global_facts", "answer": "F"}
+{"question_id": 12660, "category": "global_facts", "answer": "F"}
 {"question_id": 12661, "category": "global_facts", "answer": "B"}
-{"question_id": 12662, "category": "global_facts", "answer": "Format Error"}
-{"question_id": 12663, "category": "global_facts", "answer": "Format Error"}
+{"question_id": 12662, "category": "global_facts", "answer": "F"}
+{"question_id": 12663, "category": "global_facts", "answer": "F"}
 {"question_id": 12664, "category": "global_facts", "answer": "C"}
 {"question_id": 12665, "category": "global_facts", "answer": "B"}
 {"question_id": 12666, "category": "global_facts", "answer": "D"}
@@ -2683,7 +2683,7 @@
 {"question_id": 12683, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12684, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12685, "category": "high_school_biology", "answer": "B"}
-{"question_id": 12686, "category": "high_school_biology", "answer": "Format Error"}
+{"question_id": 12686, "category": "high_school_biology", "answer": "F"}
 {"question_id": 12687, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12688, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12689, "category": "high_school_biology", "answer": "C"}
@@ -2712,7 +2712,7 @@
 {"question_id": 12712, "category": "high_school_biology", "answer": "A"}
 {"question_id": 12713, "category": "high_school_biology", "answer": "A"}
 {"question_id": 12714, "category": "high_school_biology", "answer": "B"}
-{"question_id": 12715, "category": "high_school_biology", "answer": "Format Error"}
+{"question_id": 12715, "category": "high_school_biology", "answer": "F"}
 {"question_id": 12716, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12717, "category": "high_school_biology", "answer": "A"}
 {"question_id": 12718, "category": "high_school_biology", "answer": "B"}
@@ -2800,7 +2800,7 @@
 {"question_id": 12800, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12801, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12802, "category": "high_school_biology", "answer": "B"}
-{"question_id": 12803, "category": "high_school_biology", "answer": "Format Error"}
+{"question_id": 12803, "category": "high_school_biology", "answer": "F"}
 {"question_id": 12804, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12805, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12806, "category": "high_school_biology", "answer": "D"}
@@ -2853,7 +2853,7 @@
 {"question_id": 12853, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12854, "category": "high_school_biology", "answer": "D"}
 {"question_id": 12855, "category": "high_school_biology", "answer": "C"}
-{"question_id": 12856, "category": "high_school_biology", "answer": "Format Error"}
+{"question_id": 12856, "category": "high_school_biology", "answer": "F"}
 {"question_id": 12857, "category": "high_school_biology", "answer": "A"}
 {"question_id": 12858, "category": "high_school_biology", "answer": "C"}
 {"question_id": 12859, "category": "high_school_biology", "answer": "C"}
@@ -2910,7 +2910,7 @@
 {"question_id": 12910, "category": "high_school_biology", "answer": "C"}
 {"question_id": 12911, "category": "high_school_biology", "answer": "A"}
 {"question_id": 12912, "category": "high_school_biology", "answer": "B"}
-{"question_id": 12913, "category": "high_school_biology", "answer": "Format Error"}
+{"question_id": 12913, "category": "high_school_biology", "answer": "F"}
 {"question_id": 12914, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12915, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12916, "category": "high_school_biology", "answer": "D"}
@@ -2978,7 +2978,7 @@
 {"question_id": 12978, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12979, "category": "high_school_biology", "answer": "B"}
 {"question_id": 12980, "category": "high_school_chemistry", "answer": "A"}
-{"question_id": 12981, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 12981, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 12982, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 12983, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 12984, "category": "high_school_chemistry", "answer": "B"}
@@ -2988,27 +2988,27 @@
 {"question_id": 12988, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 12989, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 12990, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 12991, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 12991, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 12992, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 12993, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 12994, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 12995, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 12996, "category": "high_school_chemistry", "answer": "B"}
-{"question_id": 12997, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 12997, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 12998, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 12999, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 13000, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13000, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13001, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13002, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 13003, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 13004, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13005, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 13006, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13006, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13007, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13008, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 13009, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 13010, "category": "high_school_chemistry", "answer": "A"}
-{"question_id": 13011, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13011, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13012, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13013, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13014, "category": "high_school_chemistry", "answer": "C"}
@@ -3028,7 +3028,7 @@
 {"question_id": 13028, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13029, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13030, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 13031, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13031, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13032, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 13033, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13034, "category": "high_school_chemistry", "answer": "A"}
@@ -3040,7 +3040,7 @@
 {"question_id": 13040, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13041, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13042, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 13043, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13043, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13044, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 13045, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13046, "category": "high_school_chemistry", "answer": "B"}
@@ -3062,7 +3062,7 @@
 {"question_id": 13062, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 13063, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 13064, "category": "high_school_chemistry", "answer": "B"}
-{"question_id": 13065, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13065, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13066, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 13067, "category": "high_school_chemistry", "answer": "B"}
 {"question_id": 13068, "category": "high_school_chemistry", "answer": "A"}
@@ -3096,7 +3096,7 @@
 {"question_id": 13096, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 13097, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 13098, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 13099, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13099, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13100, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13101, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13102, "category": "high_school_chemistry", "answer": "D"}
@@ -3157,7 +3157,7 @@
 {"question_id": 13157, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 13158, "category": "high_school_chemistry", "answer": "A"}
 {"question_id": 13159, "category": "high_school_chemistry", "answer": "C"}
-{"question_id": 13160, "category": "high_school_chemistry", "answer": "Format Error"}
+{"question_id": 13160, "category": "high_school_chemistry", "answer": "F"}
 {"question_id": 13161, "category": "high_school_chemistry", "answer": "D"}
 {"question_id": 13162, "category": "high_school_chemistry", "answer": "C"}
 {"question_id": 13163, "category": "high_school_chemistry", "answer": "A"}
@@ -3314,7 +3314,7 @@
 {"question_id": 13314, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13315, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13316, "category": "high_school_european_history", "answer": "C"}
-{"question_id": 13317, "category": "high_school_european_history", "answer": "Format Error"}
+{"question_id": 13317, "category": "high_school_european_history", "answer": "F"}
 {"question_id": 13318, "category": "high_school_european_history", "answer": "C"}
 {"question_id": 13319, "category": "high_school_european_history", "answer": "A"}
 {"question_id": 13320, "category": "high_school_european_history", "answer": "B"}
@@ -3338,7 +3338,7 @@
 {"question_id": 13338, "category": "high_school_european_history", "answer": "B"}
 {"question_id": 13339, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13340, "category": "high_school_european_history", "answer": "C"}
-{"question_id": 13341, "category": "high_school_european_history", "answer": "Format Error"}
+{"question_id": 13341, "category": "high_school_european_history", "answer": "F"}
 {"question_id": 13342, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13343, "category": "high_school_european_history", "answer": "A"}
 {"question_id": 13344, "category": "high_school_european_history", "answer": "B"}
@@ -3356,7 +3356,7 @@
 {"question_id": 13356, "category": "high_school_european_history", "answer": "C"}
 {"question_id": 13357, "category": "high_school_european_history", "answer": "B"}
 {"question_id": 13358, "category": "high_school_european_history", "answer": "B"}
-{"question_id": 13359, "category": "high_school_european_history", "answer": "Format Error"}
+{"question_id": 13359, "category": "high_school_european_history", "answer": "F"}
 {"question_id": 13360, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13361, "category": "high_school_european_history", "answer": "A"}
 {"question_id": 13362, "category": "high_school_european_history", "answer": "B"}
@@ -3397,7 +3397,7 @@
 {"question_id": 13397, "category": "high_school_european_history", "answer": "B"}
 {"question_id": 13398, "category": "high_school_european_history", "answer": "C"}
 {"question_id": 13399, "category": "high_school_european_history", "answer": "A"}
-{"question_id": 13400, "category": "high_school_european_history", "answer": "Format Error"}
+{"question_id": 13400, "category": "high_school_european_history", "answer": "F"}
 {"question_id": 13401, "category": "high_school_european_history", "answer": "B"}
 {"question_id": 13402, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13403, "category": "high_school_european_history", "answer": "A"}
@@ -3419,7 +3419,7 @@
 {"question_id": 13419, "category": "high_school_european_history", "answer": "C"}
 {"question_id": 13420, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13421, "category": "high_school_european_history", "answer": "B"}
-{"question_id": 13422, "category": "high_school_european_history", "answer": "Format Error"}
+{"question_id": 13422, "category": "high_school_european_history", "answer": "F"}
 {"question_id": 13423, "category": "high_school_european_history", "answer": "A"}
 {"question_id": 13424, "category": "high_school_european_history", "answer": "C"}
 {"question_id": 13425, "category": "high_school_european_history", "answer": "D"}
@@ -3435,7 +3435,7 @@
 {"question_id": 13435, "category": "high_school_european_history", "answer": "C"}
 {"question_id": 13436, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13437, "category": "high_school_european_history", "answer": "C"}
-{"question_id": 13438, "category": "high_school_european_history", "answer": "Format Error"}
+{"question_id": 13438, "category": "high_school_european_history", "answer": "F"}
 {"question_id": 13439, "category": "high_school_european_history", "answer": "A"}
 {"question_id": 13440, "category": "high_school_european_history", "answer": "D"}
 {"question_id": 13441, "category": "high_school_european_history", "answer": "C"}
@@ -3457,7 +3457,7 @@
 {"question_id": 13457, "category": "high_school_geography", "answer": "D"}
 {"question_id": 13458, "category": "high_school_geography", "answer": "A"}
 {"question_id": 13459, "category": "high_school_geography", "answer": "B"}
-{"question_id": 13460, "category": "high_school_geography", "answer": "Format Error"}
+{"question_id": 13460, "category": "high_school_geography", "answer": "F"}
 {"question_id": 13461, "category": "high_school_geography", "answer": "D"}
 {"question_id": 13462, "category": "high_school_geography", "answer": "A"}
 {"question_id": 13463, "category": "high_school_geography", "answer": "D"}
@@ -3516,7 +3516,7 @@
 {"question_id": 13516, "category": "high_school_geography", "answer": "C"}
 {"question_id": 13517, "category": "high_school_geography", "answer": "C"}
 {"question_id": 13518, "category": "high_school_geography", "answer": "B"}
-{"question_id": 13519, "category": "high_school_geography", "answer": "Format Error"}
+{"question_id": 13519, "category": "high_school_geography", "answer": "F"}
 {"question_id": 13520, "category": "high_school_geography", "answer": "D"}
 {"question_id": 13521, "category": "high_school_geography", "answer": "C"}
 {"question_id": 13522, "category": "high_school_geography", "answer": "C"}
@@ -3598,7 +3598,7 @@
 {"question_id": 13598, "category": "high_school_geography", "answer": "B"}
 {"question_id": 13599, "category": "high_school_geography", "answer": "D"}
 {"question_id": 13600, "category": "high_school_geography", "answer": "C"}
-{"question_id": 13601, "category": "high_school_geography", "answer": "Format Error"}
+{"question_id": 13601, "category": "high_school_geography", "answer": "F"}
 {"question_id": 13602, "category": "high_school_geography", "answer": "B"}
 {"question_id": 13603, "category": "high_school_geography", "answer": "C"}
 {"question_id": 13604, "category": "high_school_geography", "answer": "B"}
@@ -3699,7 +3699,7 @@
 {"question_id": 13699, "category": "high_school_government_and_politics", "answer": "D"}
 {"question_id": 13700, "category": "high_school_government_and_politics", "answer": "D"}
 {"question_id": 13701, "category": "high_school_government_and_politics", "answer": "D"}
-{"question_id": 13702, "category": "high_school_government_and_politics", "answer": "Format Error"}
+{"question_id": 13702, "category": "high_school_government_and_politics", "answer": "F"}
 {"question_id": 13703, "category": "high_school_government_and_politics", "answer": "C"}
 {"question_id": 13704, "category": "high_school_government_and_politics", "answer": "A"}
 {"question_id": 13705, "category": "high_school_government_and_politics", "answer": "D"}
@@ -3788,7 +3788,7 @@
 {"question_id": 13788, "category": "high_school_government_and_politics", "answer": "A"}
 {"question_id": 13789, "category": "high_school_government_and_politics", "answer": "A"}
 {"question_id": 13790, "category": "high_school_government_and_politics", "answer": "C"}
-{"question_id": 13791, "category": "high_school_government_and_politics", "answer": "Format Error"}
+{"question_id": 13791, "category": "high_school_government_and_politics", "answer": "F"}
 {"question_id": 13792, "category": "high_school_government_and_politics", "answer": "C"}
 {"question_id": 13793, "category": "high_school_government_and_politics", "answer": "B"}
 {"question_id": 13794, "category": "high_school_government_and_politics", "answer": "C"}
@@ -3853,7 +3853,7 @@
 {"question_id": 13853, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 13854, "category": "high_school_macroeconomics", "answer": "B"}
 {"question_id": 13855, "category": "high_school_macroeconomics", "answer": "D"}
-{"question_id": 13856, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 13856, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 13857, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13858, "category": "high_school_macroeconomics", "answer": "B"}
 {"question_id": 13859, "category": "high_school_macroeconomics", "answer": "D"}
@@ -3895,7 +3895,7 @@
 {"question_id": 13895, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13896, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13897, "category": "high_school_macroeconomics", "answer": "D"}
-{"question_id": 13898, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 13898, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 13899, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13900, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 13901, "category": "high_school_macroeconomics", "answer": "D"}
@@ -3965,7 +3965,7 @@
 {"question_id": 13965, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13966, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13967, "category": "high_school_macroeconomics", "answer": "C"}
-{"question_id": 13968, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 13968, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 13969, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13970, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13971, "category": "high_school_macroeconomics", "answer": "C"}
@@ -3985,7 +3985,7 @@
 {"question_id": 13985, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 13986, "category": "high_school_macroeconomics", "answer": "B"}
 {"question_id": 13987, "category": "high_school_macroeconomics", "answer": "A"}
-{"question_id": 13988, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 13988, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 13989, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 13990, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 13991, "category": "high_school_macroeconomics", "answer": "D"}
@@ -4031,7 +4031,7 @@
 {"question_id": 14031, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 14032, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 14033, "category": "high_school_macroeconomics", "answer": "C"}
-{"question_id": 14034, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 14034, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 14035, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 14036, "category": "high_school_macroeconomics", "answer": "B"}
 {"question_id": 14037, "category": "high_school_macroeconomics", "answer": "D"}
@@ -4156,7 +4156,7 @@
 {"question_id": 14156, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 14157, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 14158, "category": "high_school_macroeconomics", "answer": "A"}
-{"question_id": 14159, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 14159, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 14160, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 14161, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 14162, "category": "high_school_macroeconomics", "answer": "C"}
@@ -4196,13 +4196,13 @@
 {"question_id": 14196, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 14197, "category": "high_school_macroeconomics", "answer": "D"}
 {"question_id": 14198, "category": "high_school_macroeconomics", "answer": "A"}
-{"question_id": 14199, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 14199, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 14200, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 14201, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 14202, "category": "high_school_macroeconomics", "answer": "C"}
 {"question_id": 14203, "category": "high_school_macroeconomics", "answer": "B"}
 {"question_id": 14204, "category": "high_school_macroeconomics", "answer": "D"}
-{"question_id": 14205, "category": "high_school_macroeconomics", "answer": "Format Error"}
+{"question_id": 14205, "category": "high_school_macroeconomics", "answer": "F"}
 {"question_id": 14206, "category": "high_school_macroeconomics", "answer": "B"}
 {"question_id": 14207, "category": "high_school_macroeconomics", "answer": "A"}
 {"question_id": 14208, "category": "high_school_macroeconomics", "answer": "B"}
@@ -4250,7 +4250,7 @@
 {"question_id": 14250, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14251, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14252, "category": "high_school_mathematics", "answer": "B"}
-{"question_id": 14253, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14253, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14254, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14255, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14256, "category": "high_school_mathematics", "answer": "C"}
@@ -4283,7 +4283,7 @@
 {"question_id": 14283, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14284, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14285, "category": "high_school_mathematics", "answer": "D"}
-{"question_id": 14286, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14286, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14287, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14288, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14289, "category": "high_school_mathematics", "answer": "D"}
@@ -4295,20 +4295,20 @@
 {"question_id": 14295, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14296, "category": "high_school_mathematics", "answer": "6"}
 {"question_id": 14297, "category": "high_school_mathematics", "answer": "B"}
-{"question_id": 14298, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14298, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14299, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14300, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14301, "category": "high_school_mathematics", "answer": "C"}
-{"question_id": 14302, "category": "high_school_mathematics", "answer": "Format Error"}
-{"question_id": 14303, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14302, "category": "high_school_mathematics", "answer": "F"}
+{"question_id": 14303, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14304, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14305, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14306, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14307, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14308, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14309, "category": "high_school_mathematics", "answer": "B"}
-{"question_id": 14310, "category": "high_school_mathematics", "answer": "Format Error"}
-{"question_id": 14311, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14310, "category": "high_school_mathematics", "answer": "F"}
+{"question_id": 14311, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14312, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14313, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14314, "category": "high_school_mathematics", "answer": "A"}
@@ -4324,27 +4324,27 @@
 {"question_id": 14324, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14325, "category": "high_school_mathematics", "answer": "1"}
 {"question_id": 14326, "category": "high_school_mathematics", "answer": "B"}
-{"question_id": 14327, "category": "high_school_mathematics", "answer": "Format Error"}
-{"question_id": 14328, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14327, "category": "high_school_mathematics", "answer": "F"}
+{"question_id": 14328, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14329, "category": "high_school_mathematics", "answer": "B"}
-{"question_id": 14330, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14330, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14331, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14332, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14333, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14334, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14335, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14336, "category": "high_school_mathematics", "answer": "D"}
-{"question_id": 14337, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14337, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14338, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14339, "category": "high_school_mathematics", "answer": "C"}
-{"question_id": 14340, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14340, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14341, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14342, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14343, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14344, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14345, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14346, "category": "high_school_mathematics", "answer": "C"}
-{"question_id": 14347, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14347, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14348, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14349, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14350, "category": "high_school_mathematics", "answer": "C"}
@@ -4380,7 +4380,7 @@
 {"question_id": 14380, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14381, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14382, "category": "high_school_mathematics", "answer": "D"}
-{"question_id": 14383, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14383, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14384, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14385, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14386, "category": "high_school_mathematics", "answer": "C"}
@@ -4395,7 +4395,7 @@
 {"question_id": 14395, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14396, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14397, "category": "high_school_mathematics", "answer": "C"}
-{"question_id": 14398, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14398, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14399, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14400, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14401, "category": "high_school_mathematics", "answer": "1"}
@@ -4405,7 +4405,7 @@
 {"question_id": 14405, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14406, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14407, "category": "high_school_mathematics", "answer": "D"}
-{"question_id": 14408, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14408, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14409, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14410, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14411, "category": "high_school_mathematics", "answer": "C"}
@@ -4445,7 +4445,7 @@
 {"question_id": 14445, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14446, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14447, "category": "high_school_mathematics", "answer": "D"}
-{"question_id": 14448, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14448, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14449, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14450, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14451, "category": "high_school_mathematics", "answer": "B"}
@@ -4458,10 +4458,10 @@
 {"question_id": 14458, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14459, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14460, "category": "high_school_mathematics", "answer": "2"}
-{"question_id": 14461, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14461, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14462, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14463, "category": "high_school_mathematics", "answer": "3"}
-{"question_id": 14464, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14464, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14465, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14466, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14467, "category": "high_school_mathematics", "answer": "A"}
@@ -4478,7 +4478,7 @@
 {"question_id": 14478, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14479, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14480, "category": "high_school_mathematics", "answer": "C"}
-{"question_id": 14481, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14481, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14482, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14483, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14484, "category": "high_school_mathematics", "answer": "C"}
@@ -4491,11 +4491,11 @@
 {"question_id": 14491, "category": "high_school_mathematics", "answer": "C"}
 {"question_id": 14492, "category": "high_school_mathematics", "answer": "D"}
 {"question_id": 14493, "category": "high_school_mathematics", "answer": "B"}
-{"question_id": 14494, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14494, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14495, "category": "high_school_mathematics", "answer": "A"}
 {"question_id": 14496, "category": "high_school_mathematics", "answer": "B"}
 {"question_id": 14497, "category": "high_school_mathematics", "answer": "C"}
-{"question_id": 14498, "category": "high_school_mathematics", "answer": "Format Error"}
+{"question_id": 14498, "category": "high_school_mathematics", "answer": "F"}
 {"question_id": 14499, "category": "high_school_microeconomics", "answer": "B"}
 {"question_id": 14500, "category": "high_school_microeconomics", "answer": "D"}
 {"question_id": 14501, "category": "high_school_microeconomics", "answer": "B"}
@@ -4524,7 +4524,7 @@
 {"question_id": 14524, "category": "high_school_microeconomics", "answer": "A"}
 {"question_id": 14525, "category": "high_school_microeconomics", "answer": "B"}
 {"question_id": 14526, "category": "high_school_microeconomics", "answer": "D"}
-{"question_id": 14527, "category": "high_school_microeconomics", "answer": "Format Error"}
+{"question_id": 14527, "category": "high_school_microeconomics", "answer": "F"}
 {"question_id": 14528, "category": "high_school_microeconomics", "answer": "C"}
 {"question_id": 14529, "category": "high_school_microeconomics", "answer": "A"}
 {"question_id": 14530, "category": "high_school_microeconomics", "answer": "B"}
@@ -4580,7 +4580,7 @@
 {"question_id": 14580, "category": "high_school_microeconomics", "answer": "A"}
 {"question_id": 14581, "category": "high_school_microeconomics", "answer": "C"}
 {"question_id": 14582, "category": "high_school_microeconomics", "answer": "D"}
-{"question_id": 14583, "category": "high_school_microeconomics", "answer": "Format Error"}
+{"question_id": 14583, "category": "high_school_microeconomics", "answer": "F"}
 {"question_id": 14584, "category": "high_school_microeconomics", "answer": "B"}
 {"question_id": 14585, "category": "high_school_microeconomics", "answer": "A"}
 {"question_id": 14586, "category": "high_school_microeconomics", "answer": "D"}
@@ -4627,7 +4627,7 @@
 {"question_id": 14627, "category": "high_school_microeconomics", "answer": "C"}
 {"question_id": 14628, "category": "high_school_microeconomics", "answer": "A"}
 {"question_id": 14629, "category": "high_school_microeconomics", "answer": "D"}
-{"question_id": 14630, "category": "high_school_microeconomics", "answer": "Format Error"}
+{"question_id": 14630, "category": "high_school_microeconomics", "answer": "F"}
 {"question_id": 14631, "category": "high_school_microeconomics", "answer": "B"}
 {"question_id": 14632, "category": "high_school_microeconomics", "answer": "C"}
 {"question_id": 14633, "category": "high_school_microeconomics", "answer": "B"}
@@ -4793,7 +4793,7 @@
 {"question_id": 14793, "category": "high_school_physics", "answer": "C"}
 {"question_id": 14794, "category": "high_school_physics", "answer": "A"}
 {"question_id": 14795, "category": "high_school_physics", "answer": "C"}
-{"question_id": 14796, "category": "high_school_physics", "answer": "Format Error"}
+{"question_id": 14796, "category": "high_school_physics", "answer": "F"}
 {"question_id": 14797, "category": "high_school_physics", "answer": "C"}
 {"question_id": 14798, "category": "high_school_physics", "answer": "B"}
 {"question_id": 14799, "category": "high_school_physics", "answer": "C"}
@@ -4814,7 +4814,7 @@
 {"question_id": 14814, "category": "high_school_physics", "answer": "D"}
 {"question_id": 14815, "category": "high_school_physics", "answer": "D"}
 {"question_id": 14816, "category": "high_school_physics", "answer": "D"}
-{"question_id": 14817, "category": "high_school_physics", "answer": "Format Error"}
+{"question_id": 14817, "category": "high_school_physics", "answer": "F"}
 {"question_id": 14818, "category": "high_school_physics", "answer": "C"}
 {"question_id": 14819, "category": "high_school_physics", "answer": "B"}
 {"question_id": 14820, "category": "high_school_physics", "answer": "D"}
@@ -4849,7 +4849,7 @@
 {"question_id": 14849, "category": "high_school_physics", "answer": "D"}
 {"question_id": 14850, "category": "high_school_physics", "answer": "C"}
 {"question_id": 14851, "category": "high_school_physics", "answer": "C"}
-{"question_id": 14852, "category": "high_school_physics", "answer": "Format Error"}
+{"question_id": 14852, "category": "high_school_physics", "answer": "F"}
 {"question_id": 14853, "category": "high_school_physics", "answer": "A"}
 {"question_id": 14854, "category": "high_school_physics", "answer": "B"}
 {"question_id": 14855, "category": "high_school_physics", "answer": "D"}
@@ -5204,7 +5204,7 @@
 {"question_id": 15204, "category": "high_school_psychology", "answer": "A"}
 {"question_id": 15205, "category": "high_school_psychology", "answer": "B"}
 {"question_id": 15206, "category": "high_school_psychology", "answer": "C"}
-{"question_id": 15207, "category": "high_school_psychology", "answer": "Format Error"}
+{"question_id": 15207, "category": "high_school_psychology", "answer": "F"}
 {"question_id": 15208, "category": "high_school_psychology", "answer": "B"}
 {"question_id": 15209, "category": "high_school_psychology", "answer": "C"}
 {"question_id": 15210, "category": "high_school_psychology", "answer": "A"}
@@ -5291,7 +5291,7 @@
 {"question_id": 15291, "category": "high_school_psychology", "answer": "B"}
 {"question_id": 15292, "category": "high_school_psychology", "answer": "D"}
 {"question_id": 15293, "category": "high_school_psychology", "answer": "C"}
-{"question_id": 15294, "category": "high_school_psychology", "answer": "Format Error"}
+{"question_id": 15294, "category": "high_school_psychology", "answer": "F"}
 {"question_id": 15295, "category": "high_school_psychology", "answer": "A"}
 {"question_id": 15296, "category": "high_school_psychology", "answer": "C"}
 {"question_id": 15297, "category": "high_school_psychology", "answer": "D"}
@@ -5328,7 +5328,7 @@
 {"question_id": 15328, "category": "high_school_psychology", "answer": "C"}
 {"question_id": 15329, "category": "high_school_psychology", "answer": "D"}
 {"question_id": 15330, "category": "high_school_psychology", "answer": "C"}
-{"question_id": 15331, "category": "high_school_psychology", "answer": "Format Error"}
+{"question_id": 15331, "category": "high_school_psychology", "answer": "F"}
 {"question_id": 15332, "category": "high_school_psychology", "answer": "D"}
 {"question_id": 15333, "category": "high_school_psychology", "answer": "D"}
 {"question_id": 15334, "category": "high_school_psychology", "answer": "C"}
@@ -5520,7 +5520,7 @@
 {"question_id": 15520, "category": "high_school_statistics", "answer": "D"}
 {"question_id": 15521, "category": "high_school_statistics", "answer": "C"}
 {"question_id": 15522, "category": "high_school_statistics", "answer": "C"}
-{"question_id": 15523, "category": "high_school_statistics", "answer": "Format Error"}
+{"question_id": 15523, "category": "high_school_statistics", "answer": "F"}
 {"question_id": 15524, "category": "high_school_statistics", "answer": "A"}
 {"question_id": 15525, "category": "high_school_statistics", "answer": "C"}
 {"question_id": 15526, "category": "high_school_statistics", "answer": "B"}
@@ -5530,8 +5530,8 @@
 {"question_id": 15530, "category": "high_school_statistics", "answer": "B"}
 {"question_id": 15531, "category": "high_school_statistics", "answer": "C"}
 {"question_id": 15532, "category": "high_school_statistics", "answer": "A"}
-{"question_id": 15533, "category": "high_school_statistics", "answer": "Format Error"}
-{"question_id": 15534, "category": "high_school_statistics", "answer": "Format Error"}
+{"question_id": 15533, "category": "high_school_statistics", "answer": "F"}
+{"question_id": 15534, "category": "high_school_statistics", "answer": "F"}
 {"question_id": 15535, "category": "high_school_statistics", "answer": "C"}
 {"question_id": 15536, "category": "high_school_statistics", "answer": "B"}
 {"question_id": 15537, "category": "high_school_statistics", "answer": "C"}
@@ -5546,7 +5546,7 @@
 {"question_id": 15546, "category": "high_school_statistics", "answer": "B"}
 {"question_id": 15547, "category": "high_school_statistics", "answer": "B"}
 {"question_id": 15548, "category": "high_school_statistics", "answer": "D"}
-{"question_id": 15549, "category": "high_school_statistics", "answer": "Format Error"}
+{"question_id": 15549, "category": "high_school_statistics", "answer": "F"}
 {"question_id": 15550, "category": "high_school_statistics", "answer": "D"}
 {"question_id": 15551, "category": "high_school_statistics", "answer": "B"}
 {"question_id": 15552, "category": "high_school_statistics", "answer": "D"}
@@ -5633,7 +5633,7 @@
 {"question_id": 15633, "category": "high_school_statistics", "answer": "C"}
 {"question_id": 15634, "category": "high_school_statistics", "answer": "D"}
 {"question_id": 15635, "category": "high_school_statistics", "answer": "D"}
-{"question_id": 15636, "category": "high_school_statistics", "answer": "Format Error"}
+{"question_id": 15636, "category": "high_school_statistics", "answer": "F"}
 {"question_id": 15637, "category": "high_school_statistics", "answer": "C"}
 {"question_id": 15638, "category": "high_school_statistics", "answer": "D"}
 {"question_id": 15639, "category": "high_school_statistics", "answer": "D"}
@@ -5662,7 +5662,7 @@
 {"question_id": 15662, "category": "high_school_us_history", "answer": "A"}
 {"question_id": 15663, "category": "high_school_us_history", "answer": "B"}
 {"question_id": 15664, "category": "high_school_us_history", "answer": "C"}
-{"question_id": 15665, "category": "high_school_us_history", "answer": "Format Error"}
+{"question_id": 15665, "category": "high_school_us_history", "answer": "F"}
 {"question_id": 15666, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15667, "category": "high_school_us_history", "answer": "C"}
 {"question_id": 15668, "category": "high_school_us_history", "answer": "D"}
@@ -5720,7 +5720,7 @@
 {"question_id": 15720, "category": "high_school_us_history", "answer": "A"}
 {"question_id": 15721, "category": "high_school_us_history", "answer": "C"}
 {"question_id": 15722, "category": "high_school_us_history", "answer": "A"}
-{"question_id": 15723, "category": "high_school_us_history", "answer": "Format Error"}
+{"question_id": 15723, "category": "high_school_us_history", "answer": "F"}
 {"question_id": 15724, "category": "high_school_us_history", "answer": "A"}
 {"question_id": 15725, "category": "high_school_us_history", "answer": "B"}
 {"question_id": 15726, "category": "high_school_us_history", "answer": "D"}
@@ -5813,7 +5813,7 @@
 {"question_id": 15813, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15814, "category": "high_school_us_history", "answer": "C"}
 {"question_id": 15815, "category": "high_school_us_history", "answer": "C"}
-{"question_id": 15816, "category": "high_school_us_history", "answer": "Format Error"}
+{"question_id": 15816, "category": "high_school_us_history", "answer": "F"}
 {"question_id": 15817, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15818, "category": "high_school_us_history", "answer": "C"}
 {"question_id": 15819, "category": "high_school_us_history", "answer": "B"}
@@ -5822,7 +5822,7 @@
 {"question_id": 15822, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15823, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15824, "category": "high_school_us_history", "answer": "B"}
-{"question_id": 15825, "category": "high_school_us_history", "answer": "Format Error"}
+{"question_id": 15825, "category": "high_school_us_history", "answer": "F"}
 {"question_id": 15826, "category": "high_school_us_history", "answer": "A"}
 {"question_id": 15827, "category": "high_school_us_history", "answer": "C"}
 {"question_id": 15828, "category": "high_school_us_history", "answer": "D"}
@@ -5833,7 +5833,7 @@
 {"question_id": 15833, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15834, "category": "high_school_us_history", "answer": "A"}
 {"question_id": 15835, "category": "high_school_us_history", "answer": "D"}
-{"question_id": 15836, "category": "high_school_us_history", "answer": "Format Error"}
+{"question_id": 15836, "category": "high_school_us_history", "answer": "F"}
 {"question_id": 15837, "category": "high_school_us_history", "answer": "C"}
 {"question_id": 15838, "category": "high_school_us_history", "answer": "D"}
 {"question_id": 15839, "category": "high_school_us_history", "answer": "C"}
@@ -5902,7 +5902,7 @@
 {"question_id": 15902, "category": "high_school_world_history", "answer": "C"}
 {"question_id": 15903, "category": "high_school_world_history", "answer": "D"}
 {"question_id": 15904, "category": "high_school_world_history", "answer": "D"}
-{"question_id": 15905, "category": "high_school_world_history", "answer": "Format Error"}
+{"question_id": 15905, "category": "high_school_world_history", "answer": "F"}
 {"question_id": 15906, "category": "high_school_world_history", "answer": "C"}
 {"question_id": 15907, "category": "high_school_world_history", "answer": "D"}
 {"question_id": 15908, "category": "high_school_world_history", "answer": "A"}
@@ -6114,7 +6114,7 @@
 {"question_id": 16114, "category": "human_aging", "answer": "D"}
 {"question_id": 16115, "category": "human_aging", "answer": "C"}
 {"question_id": 16116, "category": "human_aging", "answer": "A"}
-{"question_id": 16117, "category": "human_aging", "answer": "Format Error"}
+{"question_id": 16117, "category": "human_aging", "answer": "F"}
 {"question_id": 16118, "category": "human_aging", "answer": "B"}
 {"question_id": 16119, "category": "human_aging", "answer": "D"}
 {"question_id": 16120, "category": "human_aging", "answer": "C"}
@@ -6213,7 +6213,7 @@
 {"question_id": 16213, "category": "human_aging", "answer": "D"}
 {"question_id": 16214, "category": "human_aging", "answer": "B"}
 {"question_id": 16215, "category": "human_aging", "answer": "D"}
-{"question_id": 16216, "category": "human_aging", "answer": "Format Error"}
+{"question_id": 16216, "category": "human_aging", "answer": "F"}
 {"question_id": 16217, "category": "human_aging", "answer": "C"}
 {"question_id": 16218, "category": "human_aging", "answer": "C"}
 {"question_id": 16219, "category": "human_aging", "answer": "C"}
@@ -6273,7 +6273,7 @@
 {"question_id": 16273, "category": "human_aging", "answer": "C"}
 {"question_id": 16274, "category": "human_aging", "answer": "C"}
 {"question_id": 16275, "category": "human_aging", "answer": "A"}
-{"question_id": 16276, "category": "human_aging", "answer": "Format Error"}
+{"question_id": 16276, "category": "human_aging", "answer": "F"}
 {"question_id": 16277, "category": "human_aging", "answer": "C"}
 {"question_id": 16278, "category": "human_aging", "answer": "D"}
 {"question_id": 16279, "category": "human_aging", "answer": "B"}
@@ -6289,7 +6289,7 @@
 {"question_id": 16289, "category": "human_aging", "answer": "A"}
 {"question_id": 16290, "category": "human_aging", "answer": "B"}
 {"question_id": 16291, "category": "human_aging", "answer": "B"}
-{"question_id": 16292, "category": "human_aging", "answer": "Format Error"}
+{"question_id": 16292, "category": "human_aging", "answer": "F"}
 {"question_id": 16293, "category": "human_aging", "answer": "A"}
 {"question_id": 16294, "category": "human_aging", "answer": "B"}
 {"question_id": 16295, "category": "human_aging", "answer": "B"}
@@ -6298,7 +6298,7 @@
 {"question_id": 16298, "category": "human_aging", "answer": "B"}
 {"question_id": 16299, "category": "human_aging", "answer": "A"}
 {"question_id": 16300, "category": "human_aging", "answer": "B"}
-{"question_id": 16301, "category": "human_aging", "answer": "Format Error"}
+{"question_id": 16301, "category": "human_aging", "answer": "F"}
 {"question_id": 16302, "category": "human_aging", "answer": "C"}
 {"question_id": 16303, "category": "human_aging", "answer": "A"}
 {"question_id": 16304, "category": "human_aging", "answer": "D"}
@@ -6311,7 +6311,7 @@
 {"question_id": 16311, "category": "human_aging", "answer": "A"}
 {"question_id": 16312, "category": "human_aging", "answer": "D"}
 {"question_id": 16313, "category": "human_sexuality", "answer": "B"}
-{"question_id": 16314, "category": "human_sexuality", "answer": "Format Error"}
+{"question_id": 16314, "category": "human_sexuality", "answer": "F"}
 {"question_id": 16315, "category": "human_sexuality", "answer": "A"}
 {"question_id": 16316, "category": "human_sexuality", "answer": "A"}
 {"question_id": 16317, "category": "human_sexuality", "answer": "B"}
@@ -6393,7 +6393,7 @@
 {"question_id": 16393, "category": "human_sexuality", "answer": "D"}
 {"question_id": 16394, "category": "human_sexuality", "answer": "D"}
 {"question_id": 16395, "category": "human_sexuality", "answer": "C"}
-{"question_id": 16396, "category": "human_sexuality", "answer": "Format Error"}
+{"question_id": 16396, "category": "human_sexuality", "answer": "F"}
 {"question_id": 16397, "category": "human_sexuality", "answer": "D"}
 {"question_id": 16398, "category": "human_sexuality", "answer": "C"}
 {"question_id": 16399, "category": "human_sexuality", "answer": "D"}
@@ -6416,12 +6416,12 @@
 {"question_id": 16416, "category": "human_sexuality", "answer": "A"}
 {"question_id": 16417, "category": "human_sexuality", "answer": "C"}
 {"question_id": 16418, "category": "human_sexuality", "answer": "B"}
-{"question_id": 16419, "category": "human_sexuality", "answer": "Format Error"}
+{"question_id": 16419, "category": "human_sexuality", "answer": "F"}
 {"question_id": 16420, "category": "human_sexuality", "answer": "D"}
 {"question_id": 16421, "category": "human_sexuality", "answer": "C"}
 {"question_id": 16422, "category": "human_sexuality", "answer": "C"}
 {"question_id": 16423, "category": "human_sexuality", "answer": "B"}
-{"question_id": 16424, "category": "human_sexuality", "answer": "Format Error"}
+{"question_id": 16424, "category": "human_sexuality", "answer": "F"}
 {"question_id": 16425, "category": "human_sexuality", "answer": "C"}
 {"question_id": 16426, "category": "human_sexuality", "answer": "B"}
 {"question_id": 16427, "category": "human_sexuality", "answer": "A"}
@@ -6438,7 +6438,7 @@
 {"question_id": 16438, "category": "human_sexuality", "answer": "A"}
 {"question_id": 16439, "category": "human_sexuality", "answer": "C"}
 {"question_id": 16440, "category": "human_sexuality", "answer": "A"}
-{"question_id": 16441, "category": "human_sexuality", "answer": "Format Error"}
+{"question_id": 16441, "category": "human_sexuality", "answer": "F"}
 {"question_id": 16442, "category": "human_sexuality", "answer": "D"}
 {"question_id": 16443, "category": "human_sexuality", "answer": "D"}
 {"question_id": 16444, "category": "international_law", "answer": "B"}
@@ -6454,13 +6454,13 @@
 {"question_id": 16454, "category": "international_law", "answer": "C"}
 {"question_id": 16455, "category": "international_law", "answer": "B"}
 {"question_id": 16456, "category": "international_law", "answer": "C"}
-{"question_id": 16457, "category": "international_law", "answer": "Format Error"}
+{"question_id": 16457, "category": "international_law", "answer": "F"}
 {"question_id": 16458, "category": "international_law", "answer": "C"}
 {"question_id": 16459, "category": "international_law", "answer": "D"}
 {"question_id": 16460, "category": "international_law", "answer": "B"}
 {"question_id": 16461, "category": "international_law", "answer": "A"}
 {"question_id": 16462, "category": "international_law", "answer": "C"}
-{"question_id": 16463, "category": "international_law", "answer": "Format Error"}
+{"question_id": 16463, "category": "international_law", "answer": "F"}
 {"question_id": 16464, "category": "international_law", "answer": "C"}
 {"question_id": 16465, "category": "international_law", "answer": "C"}
 {"question_id": 16466, "category": "international_law", "answer": "C"}
@@ -6475,7 +6475,7 @@
 {"question_id": 16475, "category": "international_law", "answer": "B"}
 {"question_id": 16476, "category": "international_law", "answer": "C"}
 {"question_id": 16477, "category": "international_law", "answer": "A"}
-{"question_id": 16478, "category": "international_law", "answer": "Format Error"}
+{"question_id": 16478, "category": "international_law", "answer": "F"}
 {"question_id": 16479, "category": "international_law", "answer": "D"}
 {"question_id": 16480, "category": "international_law", "answer": "C"}
 {"question_id": 16481, "category": "international_law", "answer": "A"}
@@ -6580,7 +6580,7 @@
 {"question_id": 16580, "category": "jurisprudence", "answer": "A"}
 {"question_id": 16581, "category": "jurisprudence", "answer": "D"}
 {"question_id": 16582, "category": "jurisprudence", "answer": "C"}
-{"question_id": 16583, "category": "jurisprudence", "answer": "Format Error"}
+{"question_id": 16583, "category": "jurisprudence", "answer": "F"}
 {"question_id": 16584, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16585, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16586, "category": "jurisprudence", "answer": "A"}
@@ -6598,7 +6598,7 @@
 {"question_id": 16598, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16599, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16600, "category": "jurisprudence", "answer": "B"}
-{"question_id": 16601, "category": "jurisprudence", "answer": "Format Error"}
+{"question_id": 16601, "category": "jurisprudence", "answer": "F"}
 {"question_id": 16602, "category": "jurisprudence", "answer": "A"}
 {"question_id": 16603, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16604, "category": "jurisprudence", "answer": "D"}
@@ -6655,7 +6655,7 @@
 {"question_id": 16655, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16656, "category": "jurisprudence", "answer": "C"}
 {"question_id": 16657, "category": "jurisprudence", "answer": "B"}
-{"question_id": 16658, "category": "jurisprudence", "answer": "Format Error"}
+{"question_id": 16658, "category": "jurisprudence", "answer": "F"}
 {"question_id": 16659, "category": "jurisprudence", "answer": "B"}
 {"question_id": 16660, "category": "jurisprudence", "answer": "D"}
 {"question_id": 16661, "category": "jurisprudence", "answer": "C"}
@@ -6715,7 +6715,7 @@
 {"question_id": 16715, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16716, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16717, "category": "logical_fallacies", "answer": "D"}
-{"question_id": 16718, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16718, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16719, "category": "logical_fallacies", "answer": "A"}
 {"question_id": 16720, "category": "logical_fallacies", "answer": "A"}
 {"question_id": 16721, "category": "logical_fallacies", "answer": "C"}
@@ -6746,7 +6746,7 @@
 {"question_id": 16746, "category": "logical_fallacies", "answer": "A"}
 {"question_id": 16747, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16748, "category": "logical_fallacies", "answer": "A"}
-{"question_id": 16749, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16749, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16750, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16751, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16752, "category": "logical_fallacies", "answer": "C"}
@@ -6778,7 +6778,7 @@
 {"question_id": 16778, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16779, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16780, "category": "logical_fallacies", "answer": "D"}
-{"question_id": 16781, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16781, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16782, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16783, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16784, "category": "logical_fallacies", "answer": "B"}
@@ -6787,14 +6787,14 @@
 {"question_id": 16787, "category": "logical_fallacies", "answer": "A"}
 {"question_id": 16788, "category": "logical_fallacies", "answer": "A"}
 {"question_id": 16789, "category": "logical_fallacies", "answer": "D"}
-{"question_id": 16790, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16790, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16791, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16792, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16793, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16794, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16795, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16796, "category": "logical_fallacies", "answer": "A"}
-{"question_id": 16797, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16797, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16798, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16799, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16800, "category": "logical_fallacies", "answer": "C"}
@@ -6811,12 +6811,12 @@
 {"question_id": 16811, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16812, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16813, "category": "logical_fallacies", "answer": "D"}
-{"question_id": 16814, "category": "logical_fallacies", "answer": "Format Error"}
-{"question_id": 16815, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16814, "category": "logical_fallacies", "answer": "F"}
+{"question_id": 16815, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16816, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16817, "category": "logical_fallacies", "answer": "C"}
-{"question_id": 16818, "category": "logical_fallacies", "answer": "Format Error"}
-{"question_id": 16819, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16818, "category": "logical_fallacies", "answer": "F"}
+{"question_id": 16819, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16820, "category": "logical_fallacies", "answer": "A"}
 {"question_id": 16821, "category": "logical_fallacies", "answer": "B"}
 {"question_id": 16822, "category": "logical_fallacies", "answer": "A"}
@@ -6828,7 +6828,7 @@
 {"question_id": 16828, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16829, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16830, "category": "logical_fallacies", "answer": "B"}
-{"question_id": 16831, "category": "logical_fallacies", "answer": "Format Error"}
+{"question_id": 16831, "category": "logical_fallacies", "answer": "F"}
 {"question_id": 16832, "category": "logical_fallacies", "answer": "D"}
 {"question_id": 16833, "category": "logical_fallacies", "answer": "C"}
 {"question_id": 16834, "category": "logical_fallacies", "answer": "A"}
@@ -6904,9 +6904,9 @@
 {"question_id": 16904, "category": "machine_learning", "answer": "C"}
 {"question_id": 16905, "category": "machine_learning", "answer": "A"}
 {"question_id": 16906, "category": "machine_learning", "answer": "C"}
-{"question_id": 16907, "category": "machine_learning", "answer": "Format Error"}
+{"question_id": 16907, "category": "machine_learning", "answer": "F"}
 {"question_id": 16908, "category": "machine_learning", "answer": "D"}
-{"question_id": 16909, "category": "machine_learning", "answer": "Format Error"}
+{"question_id": 16909, "category": "machine_learning", "answer": "F"}
 {"question_id": 16910, "category": "machine_learning", "answer": "C"}
 {"question_id": 16911, "category": "machine_learning", "answer": "C"}
 {"question_id": 16912, "category": "machine_learning", "answer": "C"}
@@ -6930,7 +6930,7 @@
 {"question_id": 16930, "category": "machine_learning", "answer": "C"}
 {"question_id": 16931, "category": "machine_learning", "answer": "A"}
 {"question_id": 16932, "category": "machine_learning", "answer": "A"}
-{"question_id": 16933, "category": "machine_learning", "answer": "Format Error"}
+{"question_id": 16933, "category": "machine_learning", "answer": "F"}
 {"question_id": 16934, "category": "machine_learning", "answer": "B"}
 {"question_id": 16935, "category": "machine_learning", "answer": "B"}
 {"question_id": 16936, "category": "machine_learning", "answer": "A"}
@@ -7051,7 +7051,7 @@
 {"question_id": 17051, "category": "marketing", "answer": "B"}
 {"question_id": 17052, "category": "marketing", "answer": "D"}
 {"question_id": 17053, "category": "marketing", "answer": "B"}
-{"question_id": 17054, "category": "marketing", "answer": "Format Error"}
+{"question_id": 17054, "category": "marketing", "answer": "F"}
 {"question_id": 17055, "category": "marketing", "answer": "A"}
 {"question_id": 17056, "category": "marketing", "answer": "D"}
 {"question_id": 17057, "category": "marketing", "answer": "A"}
@@ -7232,7 +7232,7 @@
 {"question_id": 17232, "category": "marketing", "answer": "C"}
 {"question_id": 17233, "category": "marketing", "answer": "D"}
 {"question_id": 17234, "category": "marketing", "answer": "A"}
-{"question_id": 17235, "category": "marketing", "answer": "Format Error"}
+{"question_id": 17235, "category": "marketing", "answer": "F"}
 {"question_id": 17236, "category": "marketing", "answer": "A"}
 {"question_id": 17237, "category": "marketing", "answer": "A"}
 {"question_id": 17238, "category": "marketing", "answer": "A"}
@@ -7361,8 +7361,8 @@
 {"question_id": 17361, "category": "medical_genetics", "answer": "B"}
 {"question_id": 17362, "category": "medical_genetics", "answer": "C"}
 {"question_id": 17363, "category": "medical_genetics", "answer": "A"}
-{"question_id": 17364, "category": "medical_genetics", "answer": "Format Error"}
-{"question_id": 17365, "category": "medical_genetics", "answer": "Format Error"}
+{"question_id": 17364, "category": "medical_genetics", "answer": "F"}
+{"question_id": 17365, "category": "medical_genetics", "answer": "F"}
 {"question_id": 17366, "category": "medical_genetics", "answer": "D"}
 {"question_id": 17367, "category": "medical_genetics", "answer": "B"}
 {"question_id": 17368, "category": "medical_genetics", "answer": "A"}
@@ -7372,7 +7372,7 @@
 {"question_id": 17372, "category": "medical_genetics", "answer": "B"}
 {"question_id": 17373, "category": "medical_genetics", "answer": "D"}
 {"question_id": 17374, "category": "medical_genetics", "answer": "C"}
-{"question_id": 17375, "category": "medical_genetics", "answer": "Format Error"}
+{"question_id": 17375, "category": "medical_genetics", "answer": "F"}
 {"question_id": 17376, "category": "medical_genetics", "answer": "B"}
 {"question_id": 17377, "category": "medical_genetics", "answer": "B"}
 {"question_id": 17378, "category": "medical_genetics", "answer": "A"}
@@ -7405,7 +7405,7 @@
 {"question_id": 17405, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17406, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17407, "category": "miscellaneous", "answer": "C"}
-{"question_id": 17408, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17408, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17409, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17410, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17411, "category": "miscellaneous", "answer": "C"}
@@ -7498,7 +7498,7 @@
 {"question_id": 17498, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17499, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17500, "category": "miscellaneous", "answer": "A"}
-{"question_id": 17501, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17501, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17502, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17503, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17504, "category": "miscellaneous", "answer": "B"}
@@ -7669,7 +7669,7 @@
 {"question_id": 17669, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17670, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17671, "category": "miscellaneous", "answer": "D"}
-{"question_id": 17672, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17672, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17673, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17674, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17675, "category": "miscellaneous", "answer": "D"}
@@ -7693,7 +7693,7 @@
 {"question_id": 17693, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17694, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17695, "category": "miscellaneous", "answer": "D"}
-{"question_id": 17696, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17696, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17697, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17698, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17699, "category": "miscellaneous", "answer": "A"}
@@ -7712,8 +7712,8 @@
 {"question_id": 17712, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17713, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17714, "category": "miscellaneous", "answer": "A"}
-{"question_id": 17715, "category": "miscellaneous", "answer": "Format Error"}
-{"question_id": 17716, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17715, "category": "miscellaneous", "answer": "F"}
+{"question_id": 17716, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17717, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17718, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17719, "category": "miscellaneous", "answer": "B"}
@@ -7740,10 +7740,10 @@
 {"question_id": 17740, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17741, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17742, "category": "miscellaneous", "answer": "B"}
-{"question_id": 17743, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17743, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17744, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17745, "category": "miscellaneous", "answer": "B"}
-{"question_id": 17746, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17746, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17747, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17748, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17749, "category": "miscellaneous", "answer": "D"}
@@ -7752,7 +7752,7 @@
 {"question_id": 17752, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17753, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17754, "category": "miscellaneous", "answer": "C"}
-{"question_id": 17755, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17755, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17756, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17757, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17758, "category": "miscellaneous", "answer": "D"}
@@ -7773,7 +7773,7 @@
 {"question_id": 17773, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17774, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17775, "category": "miscellaneous", "answer": "B"}
-{"question_id": 17776, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17776, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17777, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17778, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17779, "category": "miscellaneous", "answer": "B"}
@@ -7789,7 +7789,7 @@
 {"question_id": 17789, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17790, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17791, "category": "miscellaneous", "answer": "C"}
-{"question_id": 17792, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17792, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17793, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17794, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17795, "category": "miscellaneous", "answer": "D"}
@@ -7823,7 +7823,7 @@
 {"question_id": 17823, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17824, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17825, "category": "miscellaneous", "answer": "B"}
-{"question_id": 17826, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17826, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17827, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17828, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17829, "category": "miscellaneous", "answer": "C"}
@@ -7846,7 +7846,7 @@
 {"question_id": 17846, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17847, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17848, "category": "miscellaneous", "answer": "D"}
-{"question_id": 17849, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17849, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17850, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17851, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17852, "category": "miscellaneous", "answer": "A"}
@@ -7949,7 +7949,7 @@
 {"question_id": 17949, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17950, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17951, "category": "miscellaneous", "answer": "B"}
-{"question_id": 17952, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17952, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17953, "category": "miscellaneous", "answer": "A"}
 {"question_id": 17954, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17955, "category": "miscellaneous", "answer": "B"}
@@ -7971,7 +7971,7 @@
 {"question_id": 17971, "category": "miscellaneous", "answer": "B"}
 {"question_id": 17972, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17973, "category": "miscellaneous", "answer": "D"}
-{"question_id": 17974, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 17974, "category": "miscellaneous", "answer": "F"}
 {"question_id": 17975, "category": "miscellaneous", "answer": "D"}
 {"question_id": 17976, "category": "miscellaneous", "answer": "C"}
 {"question_id": 17977, "category": "miscellaneous", "answer": "C"}
@@ -8008,7 +8008,7 @@
 {"question_id": 18008, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18009, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18010, "category": "miscellaneous", "answer": "A"}
-{"question_id": 18011, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18011, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18012, "category": "miscellaneous", "answer": "D"}
 {"question_id": 18013, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18014, "category": "miscellaneous", "answer": "B"}
@@ -8059,7 +8059,7 @@
 {"question_id": 18059, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18060, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18061, "category": "miscellaneous", "answer": "D"}
-{"question_id": 18062, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18062, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18063, "category": "miscellaneous", "answer": "D"}
 {"question_id": 18064, "category": "miscellaneous", "answer": "D"}
 {"question_id": 18065, "category": "miscellaneous", "answer": "C"}
@@ -8067,14 +8067,14 @@
 {"question_id": 18067, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18068, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18069, "category": "miscellaneous", "answer": "B"}
-{"question_id": 18070, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18070, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18071, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18072, "category": "miscellaneous", "answer": "D"}
 {"question_id": 18073, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18074, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18075, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18076, "category": "miscellaneous", "answer": "A"}
-{"question_id": 18077, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18077, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18078, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18079, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18080, "category": "miscellaneous", "answer": "D"}
@@ -8086,9 +8086,9 @@
 {"question_id": 18086, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18087, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18088, "category": "miscellaneous", "answer": "D"}
-{"question_id": 18089, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18089, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18090, "category": "miscellaneous", "answer": "D"}
-{"question_id": 18091, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18091, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18092, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18093, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18094, "category": "miscellaneous", "answer": "C"}
@@ -8145,12 +8145,12 @@
 {"question_id": 18145, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18146, "category": "miscellaneous", "answer": "B"}
 {"question_id": 18147, "category": "miscellaneous", "answer": "A"}
-{"question_id": 18148, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18148, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18149, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18150, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18151, "category": "miscellaneous", "answer": "C"}
 {"question_id": 18152, "category": "miscellaneous", "answer": "A"}
-{"question_id": 18153, "category": "miscellaneous", "answer": "Format Error"}
+{"question_id": 18153, "category": "miscellaneous", "answer": "F"}
 {"question_id": 18154, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18155, "category": "miscellaneous", "answer": "A"}
 {"question_id": 18156, "category": "miscellaneous", "answer": "A"}
@@ -8173,7 +8173,7 @@
 {"question_id": 18173, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18174, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18175, "category": "moral_disputes", "answer": "B"}
-{"question_id": 18176, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18176, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18177, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18178, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18179, "category": "moral_disputes", "answer": "D"}
@@ -8197,7 +8197,7 @@
 {"question_id": 18197, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18198, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18199, "category": "moral_disputes", "answer": "C"}
-{"question_id": 18200, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18200, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18201, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18202, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18203, "category": "moral_disputes", "answer": "C"}
@@ -8254,7 +8254,7 @@
 {"question_id": 18254, "category": "moral_disputes", "answer": "A"}
 {"question_id": 18255, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18256, "category": "moral_disputes", "answer": "B"}
-{"question_id": 18257, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18257, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18258, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18259, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18260, "category": "moral_disputes", "answer": "B"}
@@ -8267,7 +8267,7 @@
 {"question_id": 18267, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18268, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18269, "category": "moral_disputes", "answer": "D"}
-{"question_id": 18270, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18270, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18271, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18272, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18273, "category": "moral_disputes", "answer": "C"}
@@ -8291,7 +8291,7 @@
 {"question_id": 18291, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18292, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18293, "category": "moral_disputes", "answer": "A"}
-{"question_id": 18294, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18294, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18295, "category": "moral_disputes", "answer": "A"}
 {"question_id": 18296, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18297, "category": "moral_disputes", "answer": "D"}
@@ -8353,7 +8353,7 @@
 {"question_id": 18353, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18354, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18355, "category": "moral_disputes", "answer": "D"}
-{"question_id": 18356, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18356, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18357, "category": "moral_disputes", "answer": "A"}
 {"question_id": 18358, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18359, "category": "moral_disputes", "answer": "C"}
@@ -8415,7 +8415,7 @@
 {"question_id": 18415, "category": "moral_disputes", "answer": "A"}
 {"question_id": 18416, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18417, "category": "moral_disputes", "answer": "C"}
-{"question_id": 18418, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18418, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18419, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18420, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18421, "category": "moral_disputes", "answer": "D"}
@@ -8426,7 +8426,7 @@
 {"question_id": 18426, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18427, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18428, "category": "moral_disputes", "answer": "C"}
-{"question_id": 18429, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18429, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18430, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18431, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18432, "category": "moral_disputes", "answer": "D"}
@@ -8469,7 +8469,7 @@
 {"question_id": 18469, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18470, "category": "moral_disputes", "answer": "C"}
 {"question_id": 18471, "category": "moral_disputes", "answer": "C"}
-{"question_id": 18472, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18472, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18473, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18474, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18475, "category": "moral_disputes", "answer": "B"}
@@ -8499,7 +8499,7 @@
 {"question_id": 18499, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18500, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18501, "category": "moral_disputes", "answer": "C"}
-{"question_id": 18502, "category": "moral_disputes", "answer": "Format Error"}
+{"question_id": 18502, "category": "moral_disputes", "answer": "F"}
 {"question_id": 18503, "category": "moral_disputes", "answer": "B"}
 {"question_id": 18504, "category": "moral_disputes", "answer": "D"}
 {"question_id": 18505, "category": "moral_disputes", "answer": "A"}
@@ -9063,7 +9063,7 @@
 {"question_id": 19063, "category": "moral_scenarios", "answer": "C"}
 {"question_id": 19064, "category": "moral_scenarios", "answer": "C"}
 {"question_id": 19065, "category": "moral_scenarios", "answer": "C"}
-{"question_id": 19066, "category": "moral_scenarios", "answer": "Format Error"}
+{"question_id": 19066, "category": "moral_scenarios", "answer": "F"}
 {"question_id": 19067, "category": "moral_scenarios", "answer": "C"}
 {"question_id": 19068, "category": "moral_scenarios", "answer": "C"}
 {"question_id": 19069, "category": "moral_scenarios", "answer": "C"}
@@ -9519,12 +9519,12 @@
 {"question_id": 19519, "category": "nutrition", "answer": "C"}
 {"question_id": 19520, "category": "nutrition", "answer": "D"}
 {"question_id": 19521, "category": "nutrition", "answer": "A"}
-{"question_id": 19522, "category": "nutrition", "answer": "Format Error"}
+{"question_id": 19522, "category": "nutrition", "answer": "F"}
 {"question_id": 19523, "category": "nutrition", "answer": "C"}
 {"question_id": 19524, "category": "nutrition", "answer": "D"}
 {"question_id": 19525, "category": "nutrition", "answer": "C"}
 {"question_id": 19526, "category": "nutrition", "answer": "A"}
-{"question_id": 19527, "category": "nutrition", "answer": "Format Error"}
+{"question_id": 19527, "category": "nutrition", "answer": "F"}
 {"question_id": 19528, "category": "nutrition", "answer": "A"}
 {"question_id": 19529, "category": "nutrition", "answer": "A"}
 {"question_id": 19530, "category": "nutrition", "answer": "C"}
@@ -9578,7 +9578,7 @@
 {"question_id": 19578, "category": "nutrition", "answer": "C"}
 {"question_id": 19579, "category": "nutrition", "answer": "B"}
 {"question_id": 19580, "category": "nutrition", "answer": "A"}
-{"question_id": 19581, "category": "nutrition", "answer": "Format Error"}
+{"question_id": 19581, "category": "nutrition", "answer": "F"}
 {"question_id": 19582, "category": "nutrition", "answer": "C"}
 {"question_id": 19583, "category": "nutrition", "answer": "D"}
 {"question_id": 19584, "category": "nutrition", "answer": "C"}
@@ -9605,7 +9605,7 @@
 {"question_id": 19605, "category": "nutrition", "answer": "D"}
 {"question_id": 19606, "category": "nutrition", "answer": "A"}
 {"question_id": 19607, "category": "nutrition", "answer": "D"}
-{"question_id": 19608, "category": "nutrition", "answer": "Format Error"}
+{"question_id": 19608, "category": "nutrition", "answer": "F"}
 {"question_id": 19609, "category": "nutrition", "answer": "D"}
 {"question_id": 19610, "category": "nutrition", "answer": "D"}
 {"question_id": 19611, "category": "nutrition", "answer": "D"}
@@ -9613,7 +9613,7 @@
 {"question_id": 19613, "category": "nutrition", "answer": "C"}
 {"question_id": 19614, "category": "nutrition", "answer": "C"}
 {"question_id": 19615, "category": "nutrition", "answer": "D"}
-{"question_id": 19616, "category": "nutrition", "answer": "Format Error"}
+{"question_id": 19616, "category": "nutrition", "answer": "F"}
 {"question_id": 19617, "category": "nutrition", "answer": "D"}
 {"question_id": 19618, "category": "nutrition", "answer": "A"}
 {"question_id": 19619, "category": "nutrition", "answer": "C"}
@@ -9715,7 +9715,7 @@
 {"question_id": 19715, "category": "philosophy", "answer": "C"}
 {"question_id": 19716, "category": "philosophy", "answer": "D"}
 {"question_id": 19717, "category": "philosophy", "answer": "D"}
-{"question_id": 19718, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19718, "category": "philosophy", "answer": "F"}
 {"question_id": 19719, "category": "philosophy", "answer": "B"}
 {"question_id": 19720, "category": "philosophy", "answer": "D"}
 {"question_id": 19721, "category": "philosophy", "answer": "C"}
@@ -9726,11 +9726,11 @@
 {"question_id": 19726, "category": "philosophy", "answer": "C"}
 {"question_id": 19727, "category": "philosophy", "answer": "B"}
 {"question_id": 19728, "category": "philosophy", "answer": "A"}
-{"question_id": 19729, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19729, "category": "philosophy", "answer": "F"}
 {"question_id": 19730, "category": "philosophy", "answer": "A"}
 {"question_id": 19731, "category": "philosophy", "answer": "A"}
 {"question_id": 19732, "category": "philosophy", "answer": "D"}
-{"question_id": 19733, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19733, "category": "philosophy", "answer": "F"}
 {"question_id": 19734, "category": "philosophy", "answer": "D"}
 {"question_id": 19735, "category": "philosophy", "answer": "D"}
 {"question_id": 19736, "category": "philosophy", "answer": "B"}
@@ -9764,7 +9764,7 @@
 {"question_id": 19764, "category": "philosophy", "answer": "D"}
 {"question_id": 19765, "category": "philosophy", "answer": "D"}
 {"question_id": 19766, "category": "philosophy", "answer": "B"}
-{"question_id": 19767, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19767, "category": "philosophy", "answer": "F"}
 {"question_id": 19768, "category": "philosophy", "answer": "C"}
 {"question_id": 19769, "category": "philosophy", "answer": "B"}
 {"question_id": 19770, "category": "philosophy", "answer": "C"}
@@ -9808,10 +9808,10 @@
 {"question_id": 19808, "category": "philosophy", "answer": "C"}
 {"question_id": 19809, "category": "philosophy", "answer": "B"}
 {"question_id": 19810, "category": "philosophy", "answer": "B"}
-{"question_id": 19811, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19811, "category": "philosophy", "answer": "F"}
 {"question_id": 19812, "category": "philosophy", "answer": "A"}
 {"question_id": 19813, "category": "philosophy", "answer": "B"}
-{"question_id": 19814, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19814, "category": "philosophy", "answer": "F"}
 {"question_id": 19815, "category": "philosophy", "answer": "B"}
 {"question_id": 19816, "category": "philosophy", "answer": "C"}
 {"question_id": 19817, "category": "philosophy", "answer": "D"}
@@ -9842,7 +9842,7 @@
 {"question_id": 19842, "category": "philosophy", "answer": "C"}
 {"question_id": 19843, "category": "philosophy", "answer": "B"}
 {"question_id": 19844, "category": "philosophy", "answer": "C"}
-{"question_id": 19845, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19845, "category": "philosophy", "answer": "F"}
 {"question_id": 19846, "category": "philosophy", "answer": "C"}
 {"question_id": 19847, "category": "philosophy", "answer": "B"}
 {"question_id": 19848, "category": "philosophy", "answer": "D"}
@@ -9957,7 +9957,7 @@
 {"question_id": 19957, "category": "philosophy", "answer": "D"}
 {"question_id": 19958, "category": "philosophy", "answer": "A"}
 {"question_id": 19959, "category": "philosophy", "answer": "A"}
-{"question_id": 19960, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 19960, "category": "philosophy", "answer": "F"}
 {"question_id": 19961, "category": "philosophy", "answer": "B"}
 {"question_id": 19962, "category": "philosophy", "answer": "C"}
 {"question_id": 19963, "category": "philosophy", "answer": "B"}
@@ -9999,7 +9999,7 @@
 {"question_id": 19999, "category": "philosophy", "answer": "C"}
 {"question_id": 20000, "category": "philosophy", "answer": "B"}
 {"question_id": 20001, "category": "philosophy", "answer": "A"}
-{"question_id": 20002, "category": "philosophy", "answer": "Format Error"}
+{"question_id": 20002, "category": "philosophy", "answer": "F"}
 {"question_id": 20003, "category": "philosophy", "answer": "C"}
 {"question_id": 20004, "category": "philosophy", "answer": "A"}
 {"question_id": 20005, "category": "philosophy", "answer": "D"}
@@ -10167,7 +10167,7 @@
 {"question_id": 20167, "category": "prehistory", "answer": "D"}
 {"question_id": 20168, "category": "prehistory", "answer": "A"}
 {"question_id": 20169, "category": "prehistory", "answer": "A"}
-{"question_id": 20170, "category": "prehistory", "answer": "Format Error"}
+{"question_id": 20170, "category": "prehistory", "answer": "F"}
 {"question_id": 20171, "category": "prehistory", "answer": "C"}
 {"question_id": 20172, "category": "prehistory", "answer": "D"}
 {"question_id": 20173, "category": "prehistory", "answer": "D"}
@@ -10392,10 +10392,10 @@
 {"question_id": 20392, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20393, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20394, "category": "professional_accounting", "answer": "A"}
-{"question_id": 20395, "category": "professional_accounting", "answer": "Format Error"}
+{"question_id": 20395, "category": "professional_accounting", "answer": "F"}
 {"question_id": 20396, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20397, "category": "professional_accounting", "answer": "B"}
-{"question_id": 20398, "category": "professional_accounting", "answer": "Format Error"}
+{"question_id": 20398, "category": "professional_accounting", "answer": "F"}
 {"question_id": 20399, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20400, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20401, "category": "professional_accounting", "answer": "D"}
@@ -10463,7 +10463,7 @@
 {"question_id": 20463, "category": "professional_accounting", "answer": "B"}
 {"question_id": 20464, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20465, "category": "professional_accounting", "answer": "D"}
-{"question_id": 20466, "category": "professional_accounting", "answer": "Format Error"}
+{"question_id": 20466, "category": "professional_accounting", "answer": "F"}
 {"question_id": 20467, "category": "professional_accounting", "answer": "B"}
 {"question_id": 20468, "category": "professional_accounting", "answer": "C"}
 {"question_id": 20469, "category": "professional_accounting", "answer": "C"}
@@ -10515,7 +10515,7 @@
 {"question_id": 20515, "category": "professional_accounting", "answer": "B"}
 {"question_id": 20516, "category": "professional_accounting", "answer": "A"}
 {"question_id": 20517, "category": "professional_accounting", "answer": "B"}
-{"question_id": 20518, "category": "professional_accounting", "answer": "Format Error"}
+{"question_id": 20518, "category": "professional_accounting", "answer": "F"}
 {"question_id": 20519, "category": "professional_accounting", "answer": "D"}
 {"question_id": 20520, "category": "professional_accounting", "answer": "D"}
 {"question_id": 20521, "category": "professional_accounting", "answer": "C"}
@@ -10647,7 +10647,7 @@
 {"question_id": 20647, "category": "professional_law", "answer": "C"}
 {"question_id": 20648, "category": "professional_law", "answer": "C"}
 {"question_id": 20649, "category": "professional_law", "answer": "D"}
-{"question_id": 20650, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 20650, "category": "professional_law", "answer": "F"}
 {"question_id": 20651, "category": "professional_law", "answer": "B"}
 {"question_id": 20652, "category": "professional_law", "answer": "A"}
 {"question_id": 20653, "category": "professional_law", "answer": "A"}
@@ -10920,7 +10920,7 @@
 {"question_id": 20920, "category": "professional_law", "answer": "A"}
 {"question_id": 20921, "category": "professional_law", "answer": "B"}
 {"question_id": 20922, "category": "professional_law", "answer": "C"}
-{"question_id": 20923, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 20923, "category": "professional_law", "answer": "F"}
 {"question_id": 20924, "category": "professional_law", "answer": "C"}
 {"question_id": 20925, "category": "professional_law", "answer": "A"}
 {"question_id": 20926, "category": "professional_law", "answer": "A"}
@@ -10972,7 +10972,7 @@
 {"question_id": 20972, "category": "professional_law", "answer": "B"}
 {"question_id": 20973, "category": "professional_law", "answer": "C"}
 {"question_id": 20974, "category": "professional_law", "answer": "D"}
-{"question_id": 20975, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 20975, "category": "professional_law", "answer": "F"}
 {"question_id": 20976, "category": "professional_law", "answer": "A"}
 {"question_id": 20977, "category": "professional_law", "answer": "B"}
 {"question_id": 20978, "category": "professional_law", "answer": "B"}
@@ -11077,7 +11077,7 @@
 {"question_id": 21077, "category": "professional_law", "answer": "D"}
 {"question_id": 21078, "category": "professional_law", "answer": "C"}
 {"question_id": 21079, "category": "professional_law", "answer": "C"}
-{"question_id": 21080, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21080, "category": "professional_law", "answer": "F"}
 {"question_id": 21081, "category": "professional_law", "answer": "D"}
 {"question_id": 21082, "category": "professional_law", "answer": "C"}
 {"question_id": 21083, "category": "professional_law", "answer": "D"}
@@ -11299,7 +11299,7 @@
 {"question_id": 21299, "category": "professional_law", "answer": "C"}
 {"question_id": 21300, "category": "professional_law", "answer": "D"}
 {"question_id": 21301, "category": "professional_law", "answer": "C"}
-{"question_id": 21302, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21302, "category": "professional_law", "answer": "F"}
 {"question_id": 21303, "category": "professional_law", "answer": "C"}
 {"question_id": 21304, "category": "professional_law", "answer": "B"}
 {"question_id": 21305, "category": "professional_law", "answer": "A"}
@@ -11329,7 +11329,7 @@
 {"question_id": 21329, "category": "professional_law", "answer": "C"}
 {"question_id": 21330, "category": "professional_law", "answer": "C"}
 {"question_id": 21331, "category": "professional_law", "answer": "A"}
-{"question_id": 21332, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21332, "category": "professional_law", "answer": "F"}
 {"question_id": 21333, "category": "professional_law", "answer": "D"}
 {"question_id": 21334, "category": "professional_law", "answer": "B"}
 {"question_id": 21335, "category": "professional_law", "answer": "D"}
@@ -11547,7 +11547,7 @@
 {"question_id": 21547, "category": "professional_law", "answer": "C"}
 {"question_id": 21548, "category": "professional_law", "answer": "B"}
 {"question_id": 21549, "category": "professional_law", "answer": "D"}
-{"question_id": 21550, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21550, "category": "professional_law", "answer": "F"}
 {"question_id": 21551, "category": "professional_law", "answer": "C"}
 {"question_id": 21552, "category": "professional_law", "answer": "D"}
 {"question_id": 21553, "category": "professional_law", "answer": "C"}
@@ -11706,7 +11706,7 @@
 {"question_id": 21706, "category": "professional_law", "answer": "D"}
 {"question_id": 21707, "category": "professional_law", "answer": "B"}
 {"question_id": 21708, "category": "professional_law", "answer": "C"}
-{"question_id": 21709, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21709, "category": "professional_law", "answer": "F"}
 {"question_id": 21710, "category": "professional_law", "answer": "C"}
 {"question_id": 21711, "category": "professional_law", "answer": "C"}
 {"question_id": 21712, "category": "professional_law", "answer": "D"}
@@ -11738,7 +11738,7 @@
 {"question_id": 21738, "category": "professional_law", "answer": "C"}
 {"question_id": 21739, "category": "professional_law", "answer": "B"}
 {"question_id": 21740, "category": "professional_law", "answer": "A"}
-{"question_id": 21741, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21741, "category": "professional_law", "answer": "F"}
 {"question_id": 21742, "category": "professional_law", "answer": "C"}
 {"question_id": 21743, "category": "professional_law", "answer": "C"}
 {"question_id": 21744, "category": "professional_law", "answer": "B"}
@@ -11896,7 +11896,7 @@
 {"question_id": 21896, "category": "professional_law", "answer": "D"}
 {"question_id": 21897, "category": "professional_law", "answer": "D"}
 {"question_id": 21898, "category": "professional_law", "answer": "B"}
-{"question_id": 21899, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 21899, "category": "professional_law", "answer": "F"}
 {"question_id": 21900, "category": "professional_law", "answer": "C"}
 {"question_id": 21901, "category": "professional_law", "answer": "C"}
 {"question_id": 21902, "category": "professional_law", "answer": "B"}
@@ -12133,7 +12133,7 @@
 {"question_id": 22133, "category": "professional_law", "answer": "C"}
 {"question_id": 22134, "category": "professional_law", "answer": "B"}
 {"question_id": 22135, "category": "professional_law", "answer": "B"}
-{"question_id": 22136, "category": "professional_law", "answer": "Format Error"}
+{"question_id": 22136, "category": "professional_law", "answer": "F"}
 {"question_id": 22137, "category": "professional_law", "answer": "D"}
 {"question_id": 22138, "category": "professional_law", "answer": "B"}
 {"question_id": 22139, "category": "professional_law", "answer": "C"}
@@ -12328,7 +12328,7 @@
 {"question_id": 22328, "category": "professional_medicine", "answer": "D"}
 {"question_id": 22329, "category": "professional_medicine", "answer": "B"}
 {"question_id": 22330, "category": "professional_medicine", "answer": "D"}
-{"question_id": 22331, "category": "professional_medicine", "answer": "Format Error"}
+{"question_id": 22331, "category": "professional_medicine", "answer": "F"}
 {"question_id": 22332, "category": "professional_medicine", "answer": "D"}
 {"question_id": 22333, "category": "professional_medicine", "answer": "D"}
 {"question_id": 22334, "category": "professional_medicine", "answer": "D"}
@@ -12460,7 +12460,7 @@
 {"question_id": 22460, "category": "professional_psychology", "answer": "C"}
 {"question_id": 22461, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22462, "category": "professional_psychology", "answer": "C"}
-{"question_id": 22463, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22463, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22464, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22465, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22466, "category": "professional_psychology", "answer": "A"}
@@ -12494,7 +12494,7 @@
 {"question_id": 22494, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22495, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22496, "category": "professional_psychology", "answer": "A"}
-{"question_id": 22497, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22497, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22498, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22499, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22500, "category": "professional_psychology", "answer": "A"}
@@ -12511,7 +12511,7 @@
 {"question_id": 22511, "category": "professional_psychology", "answer": "C"}
 {"question_id": 22512, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22513, "category": "professional_psychology", "answer": "C"}
-{"question_id": 22514, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22514, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22515, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22516, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22517, "category": "professional_psychology", "answer": "D"}
@@ -12628,7 +12628,7 @@
 {"question_id": 22628, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22629, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22630, "category": "professional_psychology", "answer": "D"}
-{"question_id": 22631, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22631, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22632, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22633, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22634, "category": "professional_psychology", "answer": "A"}
@@ -12680,7 +12680,7 @@
 {"question_id": 22680, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22681, "category": "professional_psychology", "answer": "C"}
 {"question_id": 22682, "category": "professional_psychology", "answer": "A"}
-{"question_id": 22683, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22683, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22684, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22685, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22686, "category": "professional_psychology", "answer": "A"}
@@ -12694,7 +12694,7 @@
 {"question_id": 22694, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22695, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22696, "category": "professional_psychology", "answer": "D"}
-{"question_id": 22697, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22697, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22698, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22699, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22700, "category": "professional_psychology", "answer": "A"}
@@ -12728,7 +12728,7 @@
 {"question_id": 22728, "category": "professional_psychology", "answer": "C"}
 {"question_id": 22729, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22730, "category": "professional_psychology", "answer": "A"}
-{"question_id": 22731, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22731, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22732, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22733, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22734, "category": "professional_psychology", "answer": "C"}
@@ -12763,14 +12763,14 @@
 {"question_id": 22763, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22764, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22765, "category": "professional_psychology", "answer": "D"}
-{"question_id": 22766, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22766, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22767, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22768, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22769, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22770, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22771, "category": "professional_psychology", "answer": "C"}
 {"question_id": 22772, "category": "professional_psychology", "answer": "B"}
-{"question_id": 22773, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22773, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22774, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22775, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22776, "category": "professional_psychology", "answer": "A"}
@@ -12937,7 +12937,7 @@
 {"question_id": 22937, "category": "professional_psychology", "answer": "D"}
 {"question_id": 22938, "category": "professional_psychology", "answer": "A"}
 {"question_id": 22939, "category": "professional_psychology", "answer": "B"}
-{"question_id": 22940, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 22940, "category": "professional_psychology", "answer": "F"}
 {"question_id": 22941, "category": "professional_psychology", "answer": "C"}
 {"question_id": 22942, "category": "professional_psychology", "answer": "B"}
 {"question_id": 22943, "category": "professional_psychology", "answer": "A"}
@@ -13002,7 +13002,7 @@
 {"question_id": 23002, "category": "professional_psychology", "answer": "C"}
 {"question_id": 23003, "category": "professional_psychology", "answer": "C"}
 {"question_id": 23004, "category": "professional_psychology", "answer": "C"}
-{"question_id": 23005, "category": "professional_psychology", "answer": "Format Error"}
+{"question_id": 23005, "category": "professional_psychology", "answer": "F"}
 {"question_id": 23006, "category": "professional_psychology", "answer": "B"}
 {"question_id": 23007, "category": "professional_psychology", "answer": "B"}
 {"question_id": 23008, "category": "professional_psychology", "answer": "D"}
@@ -13054,7 +13054,7 @@
 {"question_id": 23054, "category": "public_relations", "answer": "C"}
 {"question_id": 23055, "category": "public_relations", "answer": "B"}
 {"question_id": 23056, "category": "public_relations", "answer": "B"}
-{"question_id": 23057, "category": "public_relations", "answer": "Format Error"}
+{"question_id": 23057, "category": "public_relations", "answer": "F"}
 {"question_id": 23058, "category": "public_relations", "answer": "B"}
 {"question_id": 23059, "category": "public_relations", "answer": "C"}
 {"question_id": 23060, "category": "public_relations", "answer": "C"}
@@ -13068,7 +13068,7 @@
 {"question_id": 23068, "category": "public_relations", "answer": "D"}
 {"question_id": 23069, "category": "public_relations", "answer": "B"}
 {"question_id": 23070, "category": "public_relations", "answer": "C"}
-{"question_id": 23071, "category": "public_relations", "answer": "Format Error"}
+{"question_id": 23071, "category": "public_relations", "answer": "F"}
 {"question_id": 23072, "category": "public_relations", "answer": "A"}
 {"question_id": 23073, "category": "public_relations", "answer": "B"}
 {"question_id": 23074, "category": "public_relations", "answer": "D"}
@@ -13095,7 +13095,7 @@
 {"question_id": 23095, "category": "public_relations", "answer": "D"}
 {"question_id": 23096, "category": "public_relations", "answer": "C"}
 {"question_id": 23097, "category": "public_relations", "answer": "A"}
-{"question_id": 23098, "category": "public_relations", "answer": "Format Error"}
+{"question_id": 23098, "category": "public_relations", "answer": "F"}
 {"question_id": 23099, "category": "public_relations", "answer": "A"}
 {"question_id": 23100, "category": "public_relations", "answer": "D"}
 {"question_id": 23101, "category": "public_relations", "answer": "C"}
@@ -13143,12 +13143,12 @@
 {"question_id": 23143, "category": "public_relations", "answer": "C"}
 {"question_id": 23144, "category": "public_relations", "answer": "A"}
 {"question_id": 23145, "category": "public_relations", "answer": "B"}
-{"question_id": 23146, "category": "public_relations", "answer": "Format Error"}
+{"question_id": 23146, "category": "public_relations", "answer": "F"}
 {"question_id": 23147, "category": "public_relations", "answer": "B"}
 {"question_id": 23148, "category": "public_relations", "answer": "C"}
-{"question_id": 23149, "category": "public_relations", "answer": "Format Error"}
+{"question_id": 23149, "category": "public_relations", "answer": "F"}
 {"question_id": 23150, "category": "public_relations", "answer": "D"}
-{"question_id": 23151, "category": "public_relations", "answer": "Format Error"}
+{"question_id": 23151, "category": "public_relations", "answer": "F"}
 {"question_id": 23152, "category": "public_relations", "answer": "C"}
 {"question_id": 23153, "category": "public_relations", "answer": "C"}
 {"question_id": 23154, "category": "public_relations", "answer": "A"}
@@ -13221,7 +13221,7 @@
 {"question_id": 23221, "category": "security_studies", "answer": "A"}
 {"question_id": 23222, "category": "security_studies", "answer": "D"}
 {"question_id": 23223, "category": "security_studies", "answer": "C"}
-{"question_id": 23224, "category": "security_studies", "answer": "Format Error"}
+{"question_id": 23224, "category": "security_studies", "answer": "F"}
 {"question_id": 23225, "category": "security_studies", "answer": "A"}
 {"question_id": 23226, "category": "security_studies", "answer": "C"}
 {"question_id": 23227, "category": "security_studies", "answer": "A"}
@@ -13284,7 +13284,7 @@
 {"question_id": 23284, "category": "security_studies", "answer": "D"}
 {"question_id": 23285, "category": "security_studies", "answer": "D"}
 {"question_id": 23286, "category": "security_studies", "answer": "C"}
-{"question_id": 23287, "category": "security_studies", "answer": "Format Error"}
+{"question_id": 23287, "category": "security_studies", "answer": "F"}
 {"question_id": 23288, "category": "security_studies", "answer": "D"}
 {"question_id": 23289, "category": "security_studies", "answer": "C"}
 {"question_id": 23290, "category": "security_studies", "answer": "D"}
@@ -13317,8 +13317,8 @@
 {"question_id": 23317, "category": "security_studies", "answer": "C"}
 {"question_id": 23318, "category": "security_studies", "answer": "D"}
 {"question_id": 23319, "category": "security_studies", "answer": "D"}
-{"question_id": 23320, "category": "security_studies", "answer": "Format Error"}
-{"question_id": 23321, "category": "security_studies", "answer": "Format Error"}
+{"question_id": 23320, "category": "security_studies", "answer": "F"}
+{"question_id": 23321, "category": "security_studies", "answer": "F"}
 {"question_id": 23322, "category": "security_studies", "answer": "D"}
 {"question_id": 23323, "category": "security_studies", "answer": "D"}
 {"question_id": 23324, "category": "security_studies", "answer": "B"}
@@ -13403,7 +13403,7 @@
 {"question_id": 23403, "category": "security_studies", "answer": "D"}
 {"question_id": 23404, "category": "security_studies", "answer": "C"}
 {"question_id": 23405, "category": "sociology", "answer": "C"}
-{"question_id": 23406, "category": "sociology", "answer": "Format Error"}
+{"question_id": 23406, "category": "sociology", "answer": "F"}
 {"question_id": 23407, "category": "sociology", "answer": "B"}
 {"question_id": 23408, "category": "sociology", "answer": "D"}
 {"question_id": 23409, "category": "sociology", "answer": "D"}
@@ -13493,7 +13493,7 @@
 {"question_id": 23493, "category": "sociology", "answer": "C"}
 {"question_id": 23494, "category": "sociology", "answer": "A"}
 {"question_id": 23495, "category": "sociology", "answer": "C"}
-{"question_id": 23496, "category": "sociology", "answer": "Format Error"}
+{"question_id": 23496, "category": "sociology", "answer": "F"}
 {"question_id": 23497, "category": "sociology", "answer": "C"}
 {"question_id": 23498, "category": "sociology", "answer": "D"}
 {"question_id": 23499, "category": "sociology", "answer": "A"}
@@ -13510,7 +13510,7 @@
 {"question_id": 23510, "category": "sociology", "answer": "D"}
 {"question_id": 23511, "category": "sociology", "answer": "B"}
 {"question_id": 23512, "category": "sociology", "answer": "D"}
-{"question_id": 23513, "category": "sociology", "answer": "Format Error"}
+{"question_id": 23513, "category": "sociology", "answer": "F"}
 {"question_id": 23514, "category": "sociology", "answer": "C"}
 {"question_id": 23515, "category": "sociology", "answer": "C"}
 {"question_id": 23516, "category": "sociology", "answer": "B"}
@@ -13553,7 +13553,7 @@
 {"question_id": 23553, "category": "sociology", "answer": "D"}
 {"question_id": 23554, "category": "sociology", "answer": "D"}
 {"question_id": 23555, "category": "sociology", "answer": "D"}
-{"question_id": 23556, "category": "sociology", "answer": "Format Error"}
+{"question_id": 23556, "category": "sociology", "answer": "F"}
 {"question_id": 23557, "category": "sociology", "answer": "C"}
 {"question_id": 23558, "category": "sociology", "answer": "A"}
 {"question_id": 23559, "category": "sociology", "answer": "A"}
@@ -13590,7 +13590,7 @@
 {"question_id": 23590, "category": "sociology", "answer": "A"}
 {"question_id": 23591, "category": "sociology", "answer": "A"}
 {"question_id": 23592, "category": "sociology", "answer": "B"}
-{"question_id": 23593, "category": "sociology", "answer": "Format Error"}
+{"question_id": 23593, "category": "sociology", "answer": "F"}
 {"question_id": 23594, "category": "sociology", "answer": "C"}
 {"question_id": 23595, "category": "sociology", "answer": "C"}
 {"question_id": 23596, "category": "sociology", "answer": "D"}
@@ -13727,7 +13727,7 @@
 {"question_id": 23727, "category": "virology", "answer": "A"}
 {"question_id": 23728, "category": "virology", "answer": "D"}
 {"question_id": 23729, "category": "virology", "answer": "B"}
-{"question_id": 23730, "category": "virology", "answer": "Format Error"}
+{"question_id": 23730, "category": "virology", "answer": "F"}
 {"question_id": 23731, "category": "virology", "answer": "B"}
 {"question_id": 23732, "category": "virology", "answer": "C"}
 {"question_id": 23733, "category": "virology", "answer": "B"}
@@ -13741,7 +13741,7 @@
 {"question_id": 23741, "category": "virology", "answer": "B"}
 {"question_id": 23742, "category": "virology", "answer": "D"}
 {"question_id": 23743, "category": "virology", "answer": "D"}
-{"question_id": 23744, "category": "virology", "answer": "Format Error"}
+{"question_id": 23744, "category": "virology", "answer": "F"}
 {"question_id": 23745, "category": "virology", "answer": "D"}
 {"question_id": 23746, "category": "virology", "answer": "A"}
 {"question_id": 23747, "category": "virology", "answer": "D"}
@@ -13797,7 +13797,7 @@
 {"question_id": 23797, "category": "virology", "answer": "C"}
 {"question_id": 23798, "category": "virology", "answer": "D"}
 {"question_id": 23799, "category": "virology", "answer": "C"}
-{"question_id": 23800, "category": "virology", "answer": "Format Error"}
+{"question_id": 23800, "category": "virology", "answer": "F"}
 {"question_id": 23801, "category": "virology", "answer": "D"}
 {"question_id": 23802, "category": "virology", "answer": "D"}
 {"question_id": 23803, "category": "virology", "answer": "A"}
@@ -13828,7 +13828,7 @@
 {"question_id": 23828, "category": "virology", "answer": "B"}
 {"question_id": 23829, "category": "virology", "answer": "A"}
 {"question_id": 23830, "category": "virology", "answer": "C"}
-{"question_id": 23831, "category": "virology", "answer": "Format Error"}
+{"question_id": 23831, "category": "virology", "answer": "F"}
 {"question_id": 23832, "category": "virology", "answer": "D"}
 {"question_id": 23833, "category": "virology", "answer": "D"}
 {"question_id": 23834, "category": "virology", "answer": "D"}
@@ -13870,7 +13870,7 @@
 {"question_id": 23870, "category": "virology", "answer": "B"}
 {"question_id": 23871, "category": "virology", "answer": "B"}
 {"question_id": 23872, "category": "world_religions", "answer": "D"}
-{"question_id": 23873, "category": "world_religions", "answer": "Format Error"}
+{"question_id": 23873, "category": "world_religions", "answer": "F"}
 {"question_id": 23874, "category": "world_religions", "answer": "D"}
 {"question_id": 23875, "category": "world_religions", "answer": "A"}
 {"question_id": 23876, "category": "world_religions", "answer": "D"}
@@ -13892,14 +13892,14 @@
 {"question_id": 23892, "category": "world_religions", "answer": "A"}
 {"question_id": 23893, "category": "world_religions", "answer": "D"}
 {"question_id": 23894, "category": "world_religions", "answer": "A"}
-{"question_id": 23895, "category": "world_religions", "answer": "Format Error"}
+{"question_id": 23895, "category": "world_religions", "answer": "F"}
 {"question_id": 23896, "category": "world_religions", "answer": "A"}
 {"question_id": 23897, "category": "world_religions", "answer": "A"}
 {"question_id": 23898, "category": "world_religions", "answer": "A"}
 {"question_id": 23899, "category": "world_religions", "answer": "D"}
 {"question_id": 23900, "category": "world_religions", "answer": "C"}
 {"question_id": 23901, "category": "world_religions", "answer": "D"}
-{"question_id": 23902, "category": "world_religions", "answer": "Format Error"}
+{"question_id": 23902, "category": "world_religions", "answer": "F"}
 {"question_id": 23903, "category": "world_religions", "answer": "A"}
 {"question_id": 23904, "category": "world_religions", "answer": "A"}
 {"question_id": 23905, "category": "world_religions", "answer": "A"}
@@ -13936,7 +13936,7 @@
 {"question_id": 23936, "category": "world_religions", "answer": "B"}
 {"question_id": 23937, "category": "world_religions", "answer": "C"}
 {"question_id": 23938, "category": "world_religions", "answer": "A"}
-{"question_id": 23939, "category": "world_religions", "answer": "Format Error"}
+{"question_id": 23939, "category": "world_religions", "answer": "F"}
 {"question_id": 23940, "category": "world_religions", "answer": "A"}
 {"question_id": 23941, "category": "world_religions", "answer": "B"}
 {"question_id": 23942, "category": "world_religions", "answer": "C"}
@@ -13968,8 +13968,8 @@
 {"question_id": 23968, "category": "world_religions", "answer": "A"}
 {"question_id": 23969, "category": "world_religions", "answer": "A"}
 {"question_id": 23970, "category": "world_religions", "answer": "D"}
-{"question_id": 23971, "category": "world_religions", "answer": "Format Error"}
-{"question_id": 23972, "category": "world_religions", "answer": "Format Error"}
+{"question_id": 23971, "category": "world_religions", "answer": "F"}
+{"question_id": 23972, "category": "world_religions", "answer": "F"}
 {"question_id": 23973, "category": "world_religions", "answer": "A"}
 {"question_id": 23974, "category": "world_religions", "answer": "A"}
 {"question_id": 23975, "category": "world_religions", "answer": "B"}
@@ -14025,7 +14025,7 @@
 {"question_id": 24025, "category": "world_religions", "answer": "B"}
 {"question_id": 24026, "category": "world_religions", "answer": "D"}
 {"question_id": 24027, "category": "world_religions", "answer": "D"}
-{"question_id": 24028, "category": "world_religions", "answer": "Format Error"}
+{"question_id": 24028, "category": "world_religions", "answer": "F"}
 {"question_id": 24029, "category": "world_religions", "answer": "C"}
 {"question_id": 24030, "category": "world_religions", "answer": "B"}
 {"question_id": 24031, "category": "world_religions", "answer": "C"}
